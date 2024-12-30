@@ -1,7 +1,8 @@
 \title{Original reference for the Fam construction}
-\author{nathanielvarkor}
+\author{nathaniel-varkor}
 \date{2021}
 \taxon{reference}
+\meta{external}{https://mathoverflow.net/questions/393917/original-reference-for-the-fam-construction}
 \meta{bibtex}{\verb>>|
 @misc{varkor_Original_2021,
 	author = {Varkor, Nathaniel},

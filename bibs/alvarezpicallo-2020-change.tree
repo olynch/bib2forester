@@ -1,7 +1,8 @@
 \title{Change actions: from incremental computation to discrete derivatives}
-\author{marioalvarezpicallo}
+\author{mario-alvarezpicallo}
 \date{2020}
 \taxon{reference}
+\meta{external}{http://arxiv.org/abs/2002.05256v2}
 \meta{bibtex}{\verb>>|
 @article{alvarez-picallo_Change_2020,
 	author = {Alvarez-Picallo, Mario},

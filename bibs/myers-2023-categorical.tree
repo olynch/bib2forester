@@ -1,7 +1,8 @@
 \title{Categorical Systems Theory}
-\author{davidmyers}
+\author{david-myers}
 \date{2023}
 \taxon{reference}
+\meta{external}{http://davidjaz.com/Papers/DynamicalBook.pdf}
 \meta{bibtex}{\verb>>|
 @book{myers_Categorical_2023,
 	author = {Myers, David Jaz},

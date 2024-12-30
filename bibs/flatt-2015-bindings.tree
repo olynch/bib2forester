@@ -1,7 +1,8 @@
 \title{Bindings as Sets of Scopes}
-\author{matthewflatt}
+\author{matthew-flatt}
 \date{2015}
 \taxon{reference}
+\meta{external}{https://www.youtube.com/watch?v=ABWLveMNdzg}
 \meta{bibtex}{\verb>>|
 @unpublished{flatt_Bindings_2015,
 	author = {Flatt, Matthew},

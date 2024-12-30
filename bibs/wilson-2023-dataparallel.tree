@@ -1,8 +1,9 @@
 \title{Data-Parallel Algorithms for String Diagrams}
-\author{paulwilson}
-\author{fabiozanasi}
+\author{paul-wilson}
+\author{fabio-zanasi}
 \date{2023}
 \taxon{reference}
+\meta{external}{http://arxiv.org/abs/2305.01041v1}
 \meta{bibtex}{\verb>>|
 @article{wilson_Data_2023,
 	author = {Wilson, Paul and Zanasi, Fabio},

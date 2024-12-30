@@ -1,7 +1,8 @@
 \title{Symbolic Compositional Resource Sharers}
-\author{owenlynch}
+\author{owen-lynch}
 \date{2024}
 \taxon{reference}
+\meta{external}{https://github.com/AlgebraicJulia/GATlab.jl/pull/136}
 \meta{bibtex}{\verb>>|
 @misc{lynch_Symbolic_2024,
 	author = {Lynch, Owen},

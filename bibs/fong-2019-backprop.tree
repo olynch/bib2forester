@@ -1,7 +1,7 @@
 \title{Backprop as Functor: A compositional perspective on supervised learning}
-\author{brendanfong}
-\author{davidspivak}
-\author{remytuyeras}
+\author{brendan-fong}
+\author{david-spivak}
+\author{remy-tuyeras}
 \date{2019}
 \taxon{reference}
 \meta{doi}{10.1109/lics.2019.8785665}

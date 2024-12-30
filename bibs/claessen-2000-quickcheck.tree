@@ -1,6 +1,6 @@
 \title{QuickCheck: a lightweight tool for random testing of Haskell programs}
-\author{koenclaessen}
-\author{johnhughes}
+\author{koen-claessen}
+\author{john-hughes}
 \date{2000}
 \taxon{reference}
 \meta{doi}{10.1145/351240.351266}

@@ -1,7 +1,8 @@
 \title{Introducing InterTypes}
-\author{owenlynch}
+\author{owen-lynch}
 \date{2023}
 \taxon{reference}
+\meta{external}{https://blog.algebraicjulia.org/post/2023/11/intertypes/}
 \meta{bibtex}{\verb>>|
 @misc{lynch_Introducing_2023,
 	author = {Lynch, Owen},

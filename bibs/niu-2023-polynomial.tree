@@ -1,8 +1,9 @@
 \title{Polynomial Functors: A Mathematical Theory of Interaction}
-\author{nelsonniu}
-\author{davidspivak}
+\author{nelson-niu}
+\author{david-spivak}
 \date{2023}
 \taxon{reference}
+\meta{external}{https://topos.site/poly-book.pdf}
 \meta{bibtex}{\verb>>|
 @book{niu_Polynomial_2023,
 	author = {Niu, Nelson and Spivak, David I.},

@@ -1,8 +1,9 @@
 \title{Toposes, Triples and Theories}
-\author{michaelbarr}
-\author{charleswells}
+\author{michael-barr}
+\author{charles-wells}
 \date{2005}
 \taxon{reference}
+\meta{external}{http://www.tac.mta.ca/tac/reprints/articles/12/tr12abs.html}
 \meta{bibtex}{\verb>>|
 @book{barr_Toposes_2005,
 	author = {Barr, Michael and Wells, Charles},

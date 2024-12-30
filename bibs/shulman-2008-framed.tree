@@ -1,7 +1,8 @@
 \title{Framed bicategories and monoidal fibrations}
-\author{michaelshulman}
+\author{michael-shulman}
 \date{2008}
 \taxon{reference}
+\meta{external}{http://www.tac.mta.ca/tac/volumes/20/18/20-18.pdf}
 \meta{bibtex}{\verb>>|
 @article{shulman_Framed_2008,
 	author = {Shulman, Michael},

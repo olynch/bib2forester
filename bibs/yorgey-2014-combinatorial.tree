@@ -1,7 +1,8 @@
 \title{Combinatorial Species and Labelled Structures}
-\author{brentyorgey}
+\author{brent-yorgey}
 \date{2014}
 \taxon{reference}
+\meta{external}{https://www.cis.upenn.edu/~sweirich/papers/yorgey-thesis.pdf}
 \meta{bibtex}{\verb>>|
 @phdthesis{yorgey_Combinatorial_2014,
 	author = {Yorgey, Brent},

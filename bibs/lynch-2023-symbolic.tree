@@ -1,7 +1,8 @@
 \title{Symbolic presentations of dynamical systems}
-\author{owenlynch}
+\author{owen-lynch}
 \date{2023}
 \taxon{reference}
+\meta{external}{https://blog.algebraicjulia.org/post/2023/05/algebraic-geometry-2/}
 \meta{bibtex}{\verb>>|
 @misc{lynch_Symbolic_2023,
 	author = {Lynch, Owen},

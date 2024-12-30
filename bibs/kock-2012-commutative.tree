@@ -1,7 +1,8 @@
 \title{Commutative Monads as a Theory of Distributions}
-\author{anderskock}
+\author{anders-kock}
 \date{2012}
 \taxon{reference}
+\meta{external}{http://www.tac.mta.ca/tac/volumes/26/4/26-04.pdf}
 \meta{bibtex}{\verb>>|
 @article{kock_Commutative_2012,
 	author = {Kock, Anders},

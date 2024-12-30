@@ -1,7 +1,8 @@
 \title{Enriched Indexed Categories}
-\author{michaelshulman}
+\author{michael-shulman}
 \date{2013}
 \taxon{reference}
+\meta{external}{http://www.tac.mta.ca/tac/volumes/28/21/28-21.pdf}
 \meta{bibtex}{\verb>>|
 @article{shulman_Enriched_2013,
 	author = {Shulman, Michael},

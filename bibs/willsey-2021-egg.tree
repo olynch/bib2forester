@@ -1,10 +1,10 @@
 \title{egg: Fast and Extensible Equality Saturation}
-\author{maxwillsey}
-\author{chandrakananandi}
-\author{yisuwang}
-\author{oliverflatt}
-\author{zacharytatlock}
-\author{pavelpanchekha}
+\author{max-willsey}
+\author{chandrakana-nandi}
+\author{yisu-wang}
+\author{oliver-flatt}
+\author{zachary-tatlock}
+\author{pavel-panchekha}
 \date{2021}
 \taxon{reference}
 \meta{doi}{10.1145/3434304}

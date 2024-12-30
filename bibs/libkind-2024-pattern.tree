@@ -1,9 +1,10 @@
 \title{Pattern runs on matter: The free monad monad as a module over the cofree
 comonad comonad}
-\author{sophielibkind}
-\author{davidspivak}
+\author{sophie-libkind}
+\author{david-spivak}
 \date{2024}
 \taxon{reference}
+\meta{external}{http://arxiv.org/abs/2404.16321v1}
 \meta{bibtex}{\verb>>|
 @article{libkind_Pattern_2024,
 	author = {Libkind, Sophie and Spivak, David I.},

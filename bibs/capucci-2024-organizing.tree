@@ -1,9 +1,10 @@
 \title{Organizing Physics with Open Energy-Driven Systems}
-\author{matteocapucci}
-\author{owenlynch}
-\author{davidspivak}
+\author{matteo-capucci}
+\author{owen-lynch}
+\author{david-spivak}
 \date{2024}
 \taxon{reference}
+\meta{external}{http://arxiv.org/abs/2404.16140v1}
 \meta{bibtex}{\verb>>|
 @article{capucci_Organizing_2024,
 	author = {Capucci, Matteo and Lynch, Owen and Spivak, David I.},

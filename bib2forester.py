@@ -23,7 +23,7 @@ def nameify(s):
     return ''.join([c for c in s.lower() if category(c) in ['Ll', 'Lu']])
 
 def author_tree(author):
-    return "-".join([nameify(n) for n in [author.first[0] + author.last[0]]])
+    return "-".join([nameify(n) for n in [author.first[0], author.last[0]]])
 
 BORING_WORDS = ['the', 'an', 'a', 'on']
 
@@ -57,6 +57,8 @@ def tree(e):
     buf.write("\\taxon{reference}\n")
     if 'doi' in e.fields_dict:
         buf.write("\\meta{{doi}}{{{}}}\n".format(e.fields_dict['doi'].value))
+    elif 'url' in e.fields_dict:
+        buf.write("\\meta{{external}}{{{}}}\n".format(e.fields_dict['url'].value))
     name = "{}-{}-{}".format(author_part(e), year_part(e), title_part(e))
     bibtex = bibtexparser.write_string(
         bibtexparser.Library([e]),

@@ -1,9 +1,10 @@
 \title{On the Syntax and Semantics of CAP}
-\author{sebastiangutsche}
-\author{sebastianposur}
-\author{øysteinskartæterhagen}
+\author{sebastian-gutsche}
+\author{sebastian-posur}
+\author{øystein-skartæterhagen}
 \date{2018}
 \taxon{reference}
+\meta{external}{https://www.cicm-conference.org/2018/infproc/paper21.pdf}
 \meta{bibtex}{\verb>>|
 @inproceedings{gutsche_Syntax_2018,
 	author = {Gutsche, Sebastian and Posur, Sebastian and Skartæterhagen, Øystein},

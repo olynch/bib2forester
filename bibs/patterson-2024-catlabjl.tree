@@ -1,13 +1,14 @@
 \title{Catlab.jl: A framework for applied category theory}
-\author{evanpatterson}
-\author{jamesfairbanks}
-\author{andrewbaas}
-\author{kristopherbrown}
-\author{micahhalter}
-\author{sophielibkind}
-\author{owenlynch}
+\author{evan-patterson}
+\author{james-fairbanks}
+\author{andrew-baas}
+\author{kristopher-brown}
+\author{micah-halter}
+\author{sophie-libkind}
+\author{owen-lynch}
 \date{2024}
 \taxon{reference}
+\meta{external}{https://github.com/AlgebraicJulia/Catlab.jl}
 \meta{bibtex}{\verb>>|
 @misc{patterson_Catlab_2024,
 	author = {Patterson, Evan and Fairbanks, James and Baas, Andrew and Brown, Kristopher and Halter, Micah E and Libkind, Sophie and Lynch, Owen},
