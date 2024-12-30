@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/351240.351266}
 \meta{bibtex}{\verb>>|
-@inproceedings{claessen_QuickCheck_2000,
+@inproceedings{claessen-2000-quickcheck,
 	author = {Claessen, Koen and Hughes, John},
 	title = {QuickCheck: a lightweight tool for random testing of Haskell programs},
 	publisher = {ACM},

@@ -10,7 +10,7 @@
 \taxon{reference}
 \meta{external}{https://github.com/AlgebraicJulia/Catlab.jl}
 \meta{bibtex}{\verb>>|
-@misc{patterson_Catlab_2024,
+@misc{patterson-2024-catlabjl,
 	author = {Patterson, Evan and Fairbanks, James and Baas, Andrew and Brown, Kristopher and Halter, Micah E and Libkind, Sophie and Lynch, Owen},
 	title = {Catlab.jl: A framework for applied category theory},
 	year = {2024},

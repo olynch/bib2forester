@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1063/1.4941578}
 \meta{bibtex}{\verb>>|
-@article{baez_compositional_2016,
+@article{baez-2016-compositional,
 	author = {Baez, John C. and Fong, Brendan and Pollard, Blake S.},
 	title = {A compositional framework for Markov processes},
 	journal = {Journal of Mathematical Physics},

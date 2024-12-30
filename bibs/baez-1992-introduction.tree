@@ -5,7 +5,7 @@
 \date{1992}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{baez_Introduction_1992,
+@book{baez-1992-introduction,
 	author = {Baez, John C. and Segal, Irving E and Zhou, Zhengfang},
 	title = {Introduction to Algebraic and Constructive Quantum Field Theory},
 	publisher = {Princeton University Press},

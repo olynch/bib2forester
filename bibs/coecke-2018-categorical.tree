@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1093/oso/9780198748991.003.0012}
 \meta{bibtex}{\verb>>|
-@book{coecke_Categorical_2018,
+@book{coecke-2018-categorical,
 	author = {Coecke, Bob and Kissinger, Aleks},
 	title = {Categorical Quantum Mechanics I: Causal Quantum Processes},
 	journal = {Oxford Scholarship Online},

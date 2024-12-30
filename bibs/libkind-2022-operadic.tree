@@ -7,7 +7,7 @@
 \taxon{reference}
 \meta{doi}{10.4204/eptcs.372.14}
 \meta{bibtex}{\verb>>|
-@article{libkind_Operadic_2022,
+@article{libkind-2022-operadic,
 	author = {Libkind, Sophie and Baas, Andrew and Patterson, Evan and Fairbanks, James},
 	title = {Operadic Modeling of Dynamical Systems: Mathematics and Computation},
 	journal = {Electronic Proceedings in Theoretical Computer Science},

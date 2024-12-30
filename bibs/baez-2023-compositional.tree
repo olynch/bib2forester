@@ -6,17 +6,16 @@
 \taxon{reference}
 \meta{doi}{10.1063/5.0089375}
 \meta{bibtex}{\verb>>|
-@article{Baez_2023,
+@article{baez-2023-compositional,
+	author = {Baez, John C. and Lynch, Owen and Moeller, Joe},
 	title = {Compositional thermostatics},
-	volume = {64},
-	ISSN = {1089-7658},
-	url = {http://dx.doi.org/10.1063/5.0089375},
-	DOI = {10.1063/5.0089375},
-	number = {2},
 	journal = {Journal of Mathematical Physics},
 	publisher = {AIP Publishing},
-	author = {Baez, John C. and Lynch, Owen and Moeller, Joe},
 	year = {2023},
-	month = {feb}
+	month = {February},
+	number = {2},
+	volume = {64},
+	doi = {10.1063/5.0089375},
+	issn = {1089-7658}
 }
 >>}

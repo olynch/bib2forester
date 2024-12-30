@@ -6,7 +6,7 @@
 \date{2001}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{cormen_Introduction_2001,
+@book{cormen-2001-introduction,
 	author = {Cormen, Thomas H and Leiserson, Charles E and Rivest, Ronald L and Stein, Clifford},
 	title = {Introduction to Algorithms},
 	publisher = {MIT Press},

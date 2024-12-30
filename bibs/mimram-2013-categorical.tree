@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/j.entcs.2013.09.018}
 \meta{bibtex}{\verb>>|
-@article{mimram_Categorical_2013,
+@article{mimram-2013-categorical,
 	author = {Mimram, Samuel and Di Giusto, Cinzia},
 	title = {A Categorical Theory of Patches},
 	journal = {Electronic Notes in Theoretical Computer Science},

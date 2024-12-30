@@ -3,7 +3,7 @@
 \date{1999}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{taylor_Practical_1999,
+@book{taylor-1999-practical,
 	author = {Taylor, Paul},
 	title = {Practical foundations of mathematics},
 	publisher = {Cambridge University Press},

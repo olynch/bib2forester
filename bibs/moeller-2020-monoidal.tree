@@ -4,7 +4,7 @@
 \date{2020}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{moeller_Monoidal_2020,
+@article{moeller-2020-monoidal,
 	author = {Moeller, Joe and Vasilakopoulou, Christina},
 	title = {Monoidal Grothendieck Construction},
 	journal = {Theory and Applications of Categories},

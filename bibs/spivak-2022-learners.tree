@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.4204/eptcs.372.2}
 \meta{bibtex}{\verb>>|
-@article{spivak_Learners_2022,
+@article{spivak-2022-learners,
 	author = {Spivak, David I.},
 	title = {Learners’ Languages},
 	journal = {Electronic Proceedings in Theoretical Computer Science},

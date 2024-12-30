@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/BFb0014988}
 \meta{bibtex}{\verb>>|
-@inproceedings{harper_Type_1987,
+@inproceedings{harper-1987-type,
 	author = {Harper, Robert and Milner, Robin and Tofte, Mads},
 	title = {A Type Discipline for Program Modules},
 	publisher = {Springer},

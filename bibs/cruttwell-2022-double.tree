@@ -6,7 +6,7 @@
 \date{2022}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{cruttwell_Double_2022,
+@article{cruttwell-2022-double,
 	author = {Cruttwell, G. S. H. and Lambert, M. J. and Pronk, D. A. and Szyld, M.},
 	title = {Double Fibrations},
 	journal = {Theory and Applications of Categories},

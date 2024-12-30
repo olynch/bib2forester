@@ -4,7 +4,7 @@
 \date{2024}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{lohmayer_Exergetic_2024a,
+@article{lohmayer-2024-exergetic,
 	author = {Lohmayer, Markus and Lynch, Owen},
 	title = {Exergetic Port-Hamiltonian Systems Modeling Language},
 	year = {2024}

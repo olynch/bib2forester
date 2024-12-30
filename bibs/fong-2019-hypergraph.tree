@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/j.jpaa.2019.02.014}
 \meta{bibtex}{\verb>>|
-@article{fong_Hypergraph_2019,
+@article{fong-2019-hypergraph,
 	author = {Fong, Brendan and Spivak, David I.},
 	title = {Hypergraph categories},
 	journal = {Journal of Pure and Applied Algebra},

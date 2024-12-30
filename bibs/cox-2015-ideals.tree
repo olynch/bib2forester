@@ -5,7 +5,7 @@
 \date{2015}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{cox_Ideals_2015,
+@book{cox-2015-ideals,
 	author = {Cox, David A. and Little, John and O'Shea, Donal},
 	title = {Ideals, Varieties, and Algorithms},
 	publisher = {Springer},

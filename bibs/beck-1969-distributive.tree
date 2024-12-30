@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/bfb0083084}
 \meta{bibtex}{\verb>>|
-@inbook{beck_Distributive_1969,
+@inbook{beck-1969-distributive,
 	author = {Beck, Jon},
 	title = {Distributive laws},
 	publisher = {Springer Berlin Heidelberg},

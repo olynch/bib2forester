@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.2307/2273784}
 \meta{bibtex}{\verb>>|
-@article{benabou_Fibered_1985,
+@article{bénabou-1985-fibered,
 	author = {Bénabou, Jean},
 	title = {Fibered categories and the foundations of naive category theory},
 	journal = {Journal of Symbolic Logic},

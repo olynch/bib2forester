@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1093/oso/9780198537816.003.0002}
 \meta{bibtex}{\verb>>|
-@incollection{pitts_Categorical_2001,
+@incollection{pitts-2001-categorical,
 	author = {Pitts, Andrew M.},
 	title = {Categorical logic},
 	year = {2001},

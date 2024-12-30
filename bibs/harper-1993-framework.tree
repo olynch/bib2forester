@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/138027.138060}
 \meta{bibtex}{\verb>>|
-@article{harper_framework_1993,
+@article{harper-1993-framework,
 	author = {Harper, Robert and Honsell, Furio and Plotkin, Gordon},
 	title = {A framework for defining logics},
 	journal = {Journal of the ACM},

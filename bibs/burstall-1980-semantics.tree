@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/3-540-10007-5_41}
 \meta{bibtex}{\verb>>|
-@inbook{burstall_semantics_1980,
+@inbook{burstall-1980-semantics,
 	author = {Burstall, R. M. and Goguen, J. A.},
 	title = {The semantics of clear, a specification language},
 	publisher = {Springer Berlin Heidelberg},

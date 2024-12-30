@@ -4,7 +4,7 @@
 \date{1988}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{rydeheard_Computational_1988,
+@book{rydeheard-1988-computational,
 	author = {Rydeheard, D. E. and Burstall, R. M.},
 	title = {Computational Category Theory},
 	publisher = {Prentice Hall},

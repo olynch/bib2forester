@@ -5,7 +5,7 @@
 \date{1993}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{kolar_Natural_1993,
+@book{kolar-1993-natural,
 	author = {Kolar, Ivan and Michor, Peter W and Slovak, Jan},
 	title = {Natural operations in differential geometry},
 	publisher = {Springer},

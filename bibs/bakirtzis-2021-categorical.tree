@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/3461669}
 \meta{bibtex}{\verb>>|
-@article{bakirtzis_Categorical_2021,
+@article{bakirtzis-2021-categorical,
 	author = {Bakirtzis, Georgios and Fleming, Cody H. and Vasilakopoulou, Christina},
 	title = {Categorical Semantics of Cyber-Physical Systems Theory},
 	journal = {ACM Transactions on Cyber-Physical Systems},

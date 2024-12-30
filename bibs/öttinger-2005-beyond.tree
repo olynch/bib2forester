@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1002/0471727903}
 \meta{bibtex}{\verb>>|
-@book{ottinger_Beyond_2005,
+@book{öttinger-2005-beyond,
 	author = {Öttinger, Hans Christian},
 	title = {Beyond Equilibrium Thermodynamics},
 	publisher = {Wiley},

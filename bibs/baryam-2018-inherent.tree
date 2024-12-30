@@ -5,7 +5,7 @@
 \date{2018}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{bar-yam_Inherent_2018,
+@article{baryam-2018-inherent,
 	author = {Bar-Yam, Taeer and Lynch, Owen and Bar-Yam, Yaneer},
 	title = {The Inherent Instability of Disordered Systems},
 	publisher = {arXiv},

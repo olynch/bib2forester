@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.4204/EPTCS.380.9}
 \meta{bibtex}{\verb>>|
-@article{capucci_Diegetic_2023,
+@article{capucci-2023-diegetic,
 	author = {Capucci, Matteo},
 	title = {Diegetic representation of feedback in open games},
 	journal = {Electronic Proceedings in Theoretical Computer Science},

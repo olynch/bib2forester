@@ -7,7 +7,7 @@
 \taxon{reference}
 \meta{doi}{10.1017/s0956796816000198}
 \meta{bibtex}{\verb>>|
-@article{angiuli_Homotopical_2016,
+@article{angiuli-2016-homotopical,
 	author = {ANGIULI, CARLO and MOREHOUSE, EDWARD and LICATA, DANIEL R. and HARPER, ROBERT},
 	title = {Homotopical patch theory},
 	journal = {Journal of Functional Programming},

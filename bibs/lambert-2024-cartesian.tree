@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/j.aim.2024.109630}
 \meta{bibtex}{\verb>>|
-@article{lambert_Cartesian_2024,
+@article{lambert-2024-cartesian,
 	author = {Lambert, Michael and Patterson, Evan},
 	title = {Cartesian double theories: A double-categorical framework for categorical doctrines},
 	journal = {Advances in Mathematics},

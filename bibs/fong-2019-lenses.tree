@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{external}{https://ceur-ws.org/Vol-2355/paper2.pdf}
 \meta{bibtex}{\verb>>|
-@inproceedings{fong_Lenses_2019,
+@inproceedings{fong-2019-lenses,
 	author = {Fong, Brendan and Johnson, Michael},
 	title = {Lenses and Learners},
 	publisher = {CEUR-WS.org},

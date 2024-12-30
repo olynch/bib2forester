@@ -3,7 +3,7 @@
 \date{1990}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@inbook{goguen_Higher_1990,
+@inbook{goguen-1990-higherorder,
 	author = {Goguen, Joseph A.},
 	title = {Higher-order functions considered unnecessary for higher-order programming},
 	publisher = {Addison-Wesley Longman Publishing Co., Inc.},

@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{http://davidjaz.com/Papers/DynamicalBook.pdf}
 \meta{bibtex}{\verb>>|
-@book{myers_Categorical_2023,
+@book{myers-2023-categorical,
 	author = {Myers, David Jaz},
 	title = {Categorical Systems Theory},
 	year = {2023},

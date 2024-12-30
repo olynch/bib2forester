@@ -3,7 +3,7 @@
 \date{1898}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{whitehead_treatise_1898,
+@book{whitehead-1898-treatise,
 	author = {Whitehead, Alfred},
 	title = {A treatise on universal algebra, with applications.},
 	publisher = {Cambridge University Press},

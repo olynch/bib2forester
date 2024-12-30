@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-1-4757-4721-8}
 \meta{bibtex}{\verb>>|
-@book{maclane_Categories_1978,
+@book{mac-1978-categories,
 	author = {Mac Lane, Saunders},
 	title = {Categories for the Working Mathematician},
 	journal = {Graduate Texts in Mathematics},

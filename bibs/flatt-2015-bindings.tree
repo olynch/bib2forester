@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{https://www.youtube.com/watch?v=ABWLveMNdzg}
 \meta{bibtex}{\verb>>|
-@unpublished{flatt_Bindings_2015,
+@unpublished{flatt-2015-bindings,
 	author = {Flatt, Matthew},
 	title = {Bindings as Sets of Scopes},
 	year = {2015},

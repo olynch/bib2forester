@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/3386336}
 \meta{bibtex}{\verb>>|
-@article{macqueen_history_2020,
+@article{macqueen-2020-history,
 	author = {MacQueen, David and Harper, Robert and Reppy, John},
 	title = {The history of Standard ML},
 	journal = {Proceedings of the ACM on Programming Languages},

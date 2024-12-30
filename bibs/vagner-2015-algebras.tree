@@ -5,7 +5,7 @@
 \date{2015}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{vagner_Algebras_2015,
+@article{vagner-2015-algebras,
 	author = {Vagner, Dmitry and Spivak, David I. and Lerman, Eugene},
 	title = {Algebras of open dynamical systems on the operad of wiring diagrams },
 	journal = {Theory and Applications of Categories},

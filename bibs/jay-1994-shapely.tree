@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/3-540-57880-3_20}
 \meta{bibtex}{\verb>>|
-@inbook{jay_Shapely_1994,
+@inbook{jay-1994-shapely,
 	author = {Jay, C. Barry and Cockett, J. R. B.},
 	title = {Shapely types and shape polymorphism},
 	publisher = {Springer Berlin Heidelberg},

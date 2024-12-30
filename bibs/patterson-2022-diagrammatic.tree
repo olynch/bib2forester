@@ -7,7 +7,7 @@
 \taxon{reference}
 \meta{doi}{10.3934/mine.2023036}
 \meta{bibtex}{\verb>>|
-@article{patterson_diagrammatic_2022,
+@article{patterson-2022-diagrammatic,
 	author = {Patterson, Evan and Baas, Andrew and Hosgood, Timothy and Fairbanks, James},
 	title = {A diagrammatic view of differential equations in physics},
 	journal = {Mathematics in Engineering},

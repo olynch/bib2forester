@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1063/5.0029885}
 \meta{bibtex}{\verb>>|
-@article{baez_Open_2021,
+@article{baez-2021-open,
 	author = {Baez, John C. and Weisbart, David and Yassine, Adam M.},
 	title = {Open systems in classical mechanics},
 	journal = {Journal of Mathematical Physics},

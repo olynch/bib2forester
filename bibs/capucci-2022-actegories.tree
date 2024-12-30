@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.48550/ARXIV.2203.16351}
 \meta{bibtex}{\verb>>|
-@misc{capucci_Actegories_2022,
+@misc{capucci-2022-actegories,
 	author = {Capucci, Matteo and Gavranović, Bruno},
 	title = {Actegories for the Working Amthematician},
 	publisher = {arXiv},

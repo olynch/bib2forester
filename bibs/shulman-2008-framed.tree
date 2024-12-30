@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{http://www.tac.mta.ca/tac/volumes/20/18/20-18.pdf}
 \meta{bibtex}{\verb>>|
-@article{shulman_Framed_2008,
+@article{shulman-2008-framed,
 	author = {Shulman, Michael},
 	title = {Framed bicategories and monoidal fibrations},
 	journal = {Theory and Applications of Categories},

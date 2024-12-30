@@ -7,7 +7,7 @@
 \taxon{reference}
 \meta{doi}{10.4204/eptcs.372.17}
 \meta{bibtex}{\verb>>|
-@article{capucci_Towards_2022,
+@article{capucci-2022-towards,
 	author = {Capucci, Matteo and Gavranović, Bruno and Hedges, Jules and Rischel, Eigil Fjeldgren},
 	title = {Towards Foundations of Categorical Cybernetics},
 	journal = {Electronic Proceedings in Theoretical Computer Science},

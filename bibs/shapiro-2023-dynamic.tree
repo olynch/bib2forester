@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.4204/eptcs.380.11}
 \meta{bibtex}{\verb>>|
-@article{shapiro_Dynamic_2023,
+@article{shapiro-2023-dynamic,
 	author = {Shapiro, Brandon T. and Spivak, David I.},
 	title = {Dynamic Operads, Dynamic Categories: From Deep Learning to Prediction Markets},
 	journal = {Electronic Proceedings in Theoretical Computer Science},

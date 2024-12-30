@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-3-642-31374-5_14}
 \meta{bibtex}{\verb>>|
-@inproceedings{carette_Theory_2012,
+@inproceedings{carette-2012-theory,
 	author = {Carette, Jacques and O’Connor, Russell},
 	title = {Theory presentation combinators},
 	year = {2012},

@@ -3,7 +3,7 @@
 \date{1977}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@inproceedings{goguen_Abstract_1977,
+@inproceedings{goguen-1977-abstract,
 	author = {Goguen, Joseph A.},
 	title = {Abstract Errors for Abstract Data Types},
 	publisher = {North-Holland},

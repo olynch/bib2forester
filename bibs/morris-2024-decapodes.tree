@@ -10,7 +10,7 @@ Computing Spatialized Partial Differential Equations}
 \taxon{reference}
 \meta{doi}{10.48550/arXiv.2401.17432}
 \meta{bibtex}{\verb>>|
-@article{morris_Decapodes_2024,
+@article{morris-2024-decapodes,
 	author = {Morris, Luke and Baas, Andrew and Arias, Jesus and Gatlin, Maia and Patterson, Evan and Fairbanks, James P.},
 	title = {Decapodes: A Diagrammatic Tool for Representing, Composing, and
 Computing Spatialized Partial Differential Equations},

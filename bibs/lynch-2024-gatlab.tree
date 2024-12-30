@@ -7,7 +7,7 @@
 \taxon{reference}
 \meta{external}{https://github.com/AlgebraicJulia/Gatlab.jl}
 \meta{bibtex}{\verb>>|
-@misc{lynch_GATlab_2024,
+@misc{lynch-2024-gatlab,
 	author = {Lynch, Owen and Brown, Kris and Patterson, Evan and Fairbanks, James},
 	title = {GATlab: a computer algebra system based on generalized algebraic theories},
 	year = {2024},

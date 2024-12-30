@@ -9,7 +9,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/3434304}
 \meta{bibtex}{\verb>>|
-@article{willsey_egg_2021,
+@article{willsey-2021-egg,
 	author = {Willsey, Max and Nandi, Chandrakana and Wang, Yisu Remy and Flatt, Oliver and Tatlock, Zachary and Panchekha, Pavel},
 	title = {egg: Fast and Extensible Equality Saturation},
 	journal = {Proc. ACM Program. Lang.},

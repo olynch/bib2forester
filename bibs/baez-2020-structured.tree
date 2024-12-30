@@ -4,7 +4,7 @@
 \date{2020}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{baez_Structured_2020,
+@article{baez-2020-structured,
 	author = {Baez, John C. and Courser, Kenny},
 	title = {Structured Cospans},
 	journal = {Theory and Applications of Categories},

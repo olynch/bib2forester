@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{external}{https://www.cicm-conference.org/2018/infproc/paper21.pdf}
 \meta{bibtex}{\verb>>|
-@inproceedings{gutsche_Syntax_2018,
+@inproceedings{gutsche-2018-syntax,
 	author = {Gutsche, Sebastian and Posur, Sebastian and Skartæterhagen, Øystein},
 	title = {On the Syntax and Semantics of CAP},
 	year = {2018},

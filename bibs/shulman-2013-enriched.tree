@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{http://www.tac.mta.ca/tac/volumes/28/21/28-21.pdf}
 \meta{bibtex}{\verb>>|
-@article{shulman_Enriched_2013,
+@article{shulman-2013-enriched,
 	author = {Shulman, Michael},
 	title = {Enriched Indexed Categories},
 	journal = {Theory and Application of Categories},

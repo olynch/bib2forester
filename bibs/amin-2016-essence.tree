@@ -8,7 +8,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-3-319-30936-1_14}
 \meta{bibtex}{\verb>>|
-@inbook{amin_Essence_2016,
+@inbook{amin-2016-essence,
 	author = {Amin, Nada and Grütter, Samuel and Odersky, Martin and Rompf, Tiark and Stucki, Sandro},
 	title = {The Essence of Dependent Object Types},
 	publisher = {Springer International Publishing},

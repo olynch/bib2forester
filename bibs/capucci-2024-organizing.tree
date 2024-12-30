@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{external}{http://arxiv.org/abs/2404.16140v1}
 \meta{bibtex}{\verb>>|
-@article{capucci_Organizing_2024,
+@article{capucci-2024-organizing,
 	author = {Capucci, Matteo and Lynch, Owen and Spivak, David I.},
 	title = {Organizing Physics with Open Energy-Driven Systems},
 	year = {2024},

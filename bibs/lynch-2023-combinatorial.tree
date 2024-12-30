@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{https://www.localcharts.org/t/combinatorial-data-structures-via-finite-existential-types/10724}
 \meta{bibtex}{\verb>>|
-@misc{lynch_Combinatorial_2023,
+@misc{lynch-2023-combinatorial,
 	author = {Lynch, Owen},
 	title = {Combinatorial data structures via finite existential types},
 	year = {2023},

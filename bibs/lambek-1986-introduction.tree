@@ -4,7 +4,7 @@
 \date{1986}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{lambek_Introduction_1986,
+@book{lambek-1986-introduction,
 	author = {Lambek, Joachim and Scott, Philip J.},
 	title = {Introduction to higher-order categorical logic},
 	publisher = {Cambridge University Press},

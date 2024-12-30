@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-3-642-56478-9_3}
 \meta{bibtex}{\verb>>|
-@inbook{baez_From_2001,
+@inbook{baez-2001-from,
 	author = {Baez, John C. and Dolan, James},
 	title = {From Finite Sets to Feynman Diagrams},
 	publisher = {Springer Berlin Heidelberg},

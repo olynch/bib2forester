@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.2168/lmcs-10(1:17)2014}
 \meta{bibtex}{\verb>>|
-@article{mgelberg_Linear_2014,
+@article{møgelberg-2014-linear,
 	author = {Møgelberg, Rasmus Ejlers and Staton, Sam},
 	title = {Linear usage of state},
 	journal = {Logical Methods in Computer Science},

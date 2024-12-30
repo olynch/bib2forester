@@ -4,7 +4,7 @@ databases, recursion, and plug-and-play circuits}
 \date{2013}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{spivak_operad_2013,
+@article{spivak-2013-operad,
 	author = {Spivak, David I.},
 	title = {The operad of wiring diagrams: formalizing a graphical language for
 databases, recursion, and plug-and-play circuits},

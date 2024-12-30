@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{https://studenttheses.uu.nl/handle/20.500.12932/41725}
 \meta{bibtex}{\verb>>|
-@mastersthesis{lynch_Relational_2022,
+@mastersthesis{lynch-2022-relational,
 	author = {Lynch, Owen},
 	title = {Relational Composition of Physical Systems: A Categorical Approach},
 	year = {2022},

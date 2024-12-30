@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{external}{http://www.tac.mta.ca/tac/reprints/articles/12/tr12abs.html}
 \meta{bibtex}{\verb>>|
-@book{barr_Toposes_2005,
+@book{barr-2005-toposes,
 	author = {Barr, Michael and Wells, Charles},
 	title = {Toposes, Triples and Theories},
 	publisher = {Reprints in Theory and Applications of Categories},

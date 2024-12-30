@@ -3,7 +3,7 @@
 \date{2021}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{lambert_Discrete_2021,
+@article{lambert-2021-discrete,
 	author = {Lambert, Michael},
 	title = {Discrete Double Fibrations},
 	journal = {Theory & Applications of Categories},

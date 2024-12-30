@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/j.ic.2012.05.001}
 \meta{bibtex}{\verb>>|
-@article{spivak_Functorial_2012,
+@article{spivak-2012-functorial,
 	author = {Spivak, David I.},
 	title = {Functorial data migration},
 	journal = {Information and Computation},

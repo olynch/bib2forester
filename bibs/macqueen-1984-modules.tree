@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/800055.802036}
 \meta{bibtex}{\verb>>|
-@inproceedings{macqueen_Modules_1984,
+@inproceedings{macqueen-1984-modules,
 	author = {MacQueen, David},
 	title = {Modules for standard ML},
 	publisher = {ACM Press},

@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{https://www.cis.upenn.edu/~sweirich/papers/yorgey-thesis.pdf}
 \meta{bibtex}{\verb>>|
-@phdthesis{yorgey_Combinatorial_2014,
+@phdthesis{yorgey-2014-combinatorial,
 	author = {Yorgey, Brent},
 	title = {Combinatorial Species and Labelled Structures},
 	year = {2014},

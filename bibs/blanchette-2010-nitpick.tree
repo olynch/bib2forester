@@ -4,7 +4,7 @@
 \date{2010}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@inproceedings{blanchette_Nitpick_2010,
+@inproceedings{blanchette-2010-nitpick,
 	author = {Blanchette, Jasmin Christian and Nipkow, Tobias},
 	title = {Nitpick: A counterexample generator for higher-order logic based on a relational model finder},
 	publisher = {Springer},

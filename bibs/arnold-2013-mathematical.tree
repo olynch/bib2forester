@@ -3,7 +3,7 @@
 \date{2013}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@book{arnold_Mathematical_2013,
+@book{arnold-2013-mathematical,
 	author = {Arnol'd, Vladimir Igorevich},
 	title = {Mathematical methods of classical mechanics},
 	publisher = {Springer Science \& Business Media},

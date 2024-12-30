@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/s10485-009-9202-7}
 \meta{bibtex}{\verb>>|
-@article{power_Unicity_2009,
+@article{power-2009-unicity,
 	author = {Power, John},
 	title = {Unicity of Enrichment over Cat or Gpd},
 	journal = {Applied Categorical Structures},

@@ -8,7 +8,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-3-031-40805-2_8}
 \meta{bibtex}{\verb>>|
-@inbook{baez_Categorical_2023,
+@inbook{baez-2023-categorical,
 	author = {Baez, John C. and Li, Xiaoyan and Libkind, Sophie and Osgood, Nathaniel D. and Redekopp, Eric},
 	title = {A Categorical Framework for Modeling with Stock and Flow Diagrams},
 	publisher = {Springer International Publishing},

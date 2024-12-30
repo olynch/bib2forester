@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/j.ic.2013.06.001}
 \meta{bibtex}{\verb>>|
-@article{rabe_scalable_2013,
+@article{rabe-2013-scalable,
 	author = {Rabe, Florian and Kohlhase, Michael},
 	title = {A scalable module system},
 	journal = {Information and Computation},

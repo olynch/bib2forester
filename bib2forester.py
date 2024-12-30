@@ -93,6 +93,7 @@ def tree(e):
     elif 'url' in e.fields_dict:
         buf.write("\\meta{{external}}{{{}}}\n".format(e.fields_dict['url'].value))
     name = "{}-{}-{}".format(author_part(e), year_part(e), title_part(e))
+    e.key = name
     bibtex = bibtexparser.write_string(
         bibtexparser.Library([e]),
         prepend_middleware=[MergeNameParts(), MergeCoAuthors()]

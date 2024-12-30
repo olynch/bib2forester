@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{https://www.hairer.org/notes/Regularity.pdf}
 \meta{bibtex}{\verb>>|
-@article{hairer_Introduction_2014,
+@article{hairer-2014-introduction,
 	author = {Hairer, Martin},
 	title = {Introduction to Regularity Structures},
 	year = {2014},

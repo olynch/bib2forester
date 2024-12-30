@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.32408/compositionality-4-5}
 \meta{bibtex}{\verb>>|
-@article{patterson_Categorical_2022,
+@article{patterson-2022-categorical,
 	author = {Patterson, Evan and Lynch, Owen and Fairbanks, James},
 	title = {Categorical Data Structures for Technical Computing},
 	journal = {Compositionality},

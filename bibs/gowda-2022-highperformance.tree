@@ -10,7 +10,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/3511528.3511535}
 \meta{bibtex}{\verb>>|
-@article{gowda_High_2022,
+@article{gowda-2022-highperformance,
 	author = {Gowda, Shashi and Ma, Yingbo and Cheli, Alessandro and Gwóźzdź, Maja and Shah, Viral B. and Edelman, Alan and Rackauckas, Christopher},
 	title = {High-Performance Symbolic-Numerics via Multiple Dispatch},
 	journal = {ACM Commun. Comput. Algebra},

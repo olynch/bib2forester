@@ -6,7 +6,7 @@
 \date{2016}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{schultz_Algebraic_2016,
+@article{schultz-2016-algebraic,
 	author = {Schultz, Patrick and Spivak, David I. and Vasilakopoulou, Christina and Wisnesky, Ryan},
 	title = {Algebraic Databases},
 	journal = {Theory and Applications of Categories},

@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-1-4419-1524-5_4}
 \meta{bibtex}{\verb>>|
-@inbook{lack_2_2009,
+@inbook{lack-2009-categories,
 	author = {Lack, Stephen},
 	title = {A 2-Categories Companion},
 	publisher = {Springer New York},

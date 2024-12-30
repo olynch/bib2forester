@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.48550/arXiv.2101.02690}
 \meta{bibtex}{\verb>>|
-@misc{goguen_Theorem_2021,
+@misc{goguen-2021-theorem,
 	author = {Goguen, Joseph A.},
 	title = {Theorem Proving and Algebra},
 	year = {2021},

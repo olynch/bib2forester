@@ -4,7 +4,7 @@
 \date{2021}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{edwards_Typed_2021,
+@article{edwards-2021-typed,
 	author = {Edwards, Jonathan and Petricek, Tomas},
 	title = {Typed Image-based Programming with Structure Editing},
 	year = {2021},

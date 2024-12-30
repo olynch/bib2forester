@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/0168-0072(86)90053-9}
 \meta{bibtex}{\verb>>|
-@article{cartmell_Generalised_1986,
+@article{cartmell-1986-generalised,
 	author = {Cartmell, John},
 	title = {Generalised algebraic theories and contextual categories},
 	journal = {Annals of Pure and Applied Logic},

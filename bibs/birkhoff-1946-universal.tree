@@ -3,7 +3,7 @@
 \date{1946}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@inproceedings{birkhoff_Universal_1946,
+@inproceedings{birkhoff-1946-universal,
 	author = {Birkhoff, Garrett},
 	title = {Universal algebra},
 	publisher = {University of Toronto Press},

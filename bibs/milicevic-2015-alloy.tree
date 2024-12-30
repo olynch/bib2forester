@@ -6,7 +6,7 @@
 \date{2015}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@inproceedings{milicevic_Alloy_2015,
+@inproceedings{milicevic-2015-alloy,
 	author = {Milicevic, Aleksandar and Near, Joseph P. and Kang, Eunsuk and Jackson, Daniel},
 	title = {Alloy*: a general-purpose higher-order relational constraint solver},
 	publisher = {IEEE Press},

@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-3-642-22673-1_23}
 \meta{bibtex}{\verb>>|
-@inproceedings{carette_MathScheme_2011,
+@inproceedings{carette-2011-mathscheme,
 	author = {Carette, Jacques and Farmer, William M and O’Connor, Russell},
 	title = {{MathScheme}: project description},
 	year = {2011},

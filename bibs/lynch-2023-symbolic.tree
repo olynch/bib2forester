@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{https://blog.algebraicjulia.org/post/2023/05/algebraic-geometry-2/}
 \meta{bibtex}{\verb>>|
-@misc{lynch_Symbolic_2023,
+@misc{lynch-2023-symbolic,
 	author = {Lynch, Owen},
 	title = {Symbolic presentations of dynamical systems},
 	year = {2023},

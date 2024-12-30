@@ -3,7 +3,7 @@
 \date{1967}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@phdthesis{anders_Limit_1967,
+@phdthesis{anders-1967-limit,
 	author = {Anders, Kock},
 	title = {Limit monads in categories},
 	year = {1967},

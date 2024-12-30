@@ -4,7 +4,7 @@
 \date{2018}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{baez_compositional_2018,
+@article{baez-2018-compositional,
 	author = {Baez, John C. and Fong, Brendan},
 	title = {A compositional framework for passive linear networks},
 	journal = {Theory and Applications of Categories},

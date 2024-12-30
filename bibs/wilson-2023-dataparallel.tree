@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{external}{http://arxiv.org/abs/2305.01041v1}
 \meta{bibtex}{\verb>>|
-@article{wilson_Data_2023,
+@article{wilson-2023-dataparallel,
 	author = {Wilson, Paul and Zanasi, Fabio},
 	title = {Data-Parallel Algorithms for String Diagrams},
 	year = {2023},

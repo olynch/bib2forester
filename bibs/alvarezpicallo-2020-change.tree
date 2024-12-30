@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{external}{http://arxiv.org/abs/2002.05256v2}
 \meta{bibtex}{\verb>>|
-@article{alvarez-picallo_Change_2020,
+@article{alvarezpicallo-2020-change,
 	author = {Alvarez-Picallo, Mario},
 	title = {Change actions: from incremental computation to discrete derivatives},
 	year = {2020},

@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{doi}{10.5281/zenodo.8215544}
 \meta{bibtex}{\verb>>|
-@unpublished{capucci_Constructing_2023,
+@unpublished{capucci-2023-constructing,
 	author = {Capucci, Matteo and Myers, David Jaz},
 	title = {Constructing Triple Categories of Cybernetic Processes},
 	year = {2023},

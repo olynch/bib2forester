@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.48550/ARXIV.1301.6201}
 \meta{bibtex}{\verb>>|
-@misc{fong_Causal_2013,
+@misc{fong-2013-causal,
 	author = {Fong, Brendan},
 	title = {Causal Theories: A Categorical Perspective on Bayesian Networks},
 	year = {2013},

@@ -8,7 +8,7 @@
 \date{2021}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@misc{ma_ModelingToolkit_2021,
+@misc{ma-2021-modelingtoolkit,
 	author = {Ma, Yingbo and Gowda, Shashi and Anantharaman, Ranjan and Laughman, Chris and Shah, Viral and Rackauckas, Chris},
 	title = {ModelingToolkit: A Composable Graph Transformation System For Equation-Based Modeling},
 	year = {2021},

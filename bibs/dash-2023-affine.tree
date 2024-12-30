@@ -7,7 +7,7 @@
 \taxon{reference}
 \meta{doi}{10.1145/3571239}
 \meta{bibtex}{\verb>>|
-@article{dash_Affine_2023,
+@article{dash-2023-affine,
 	author = {Dash, Swaraj and Kaddar, Younesse and Paquet, Hugo and Staton, Sam},
 	title = {Affine Monads and Lazy Structures for Bayesian Programming},
 	journal = {Proceedings of the ACM on Programming Languages},

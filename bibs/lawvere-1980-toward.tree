@@ -3,7 +3,7 @@
 \date{1980}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
-@article{lawvere_Toward_1980,
+@article{lawvere-1980-toward,
 	author = {Lawvere, F William},
 	title = {Toward the description in a smooth topos of the dynamically possible motions and deformations of a continuous body},
 	journal = {Cahiers de topologie et géométrie différentielle},

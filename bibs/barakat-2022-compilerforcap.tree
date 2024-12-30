@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{external}{https://algebra.mathematik.uni-siegen.de/barakat/CompilerForCAP/CompilerForCAP.pdf}
 \meta{bibtex}{\verb>>|
-@misc{barakat_CompilerForCAP_2022,
+@misc{barakat-2022-compilerforcap,
 	author = {Barakat, Mohamed and Kuhmichel, Tom and Zickgraf, Fabian},
 	title = {CompilerForCAP -- A Category Theory Aware Compiler, Building and Compiling Towers of Categories},
 	year = {2022},

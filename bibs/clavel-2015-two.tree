@@ -10,7 +10,7 @@
 \taxon{reference}
 \meta{doi}{10.1007/978-3-319-23165-5_11}
 \meta{bibtex}{\verb>>|
-@inbook{clavel_Two_2015,
+@inbook{clavel-2015-two,
 	author = {Clavel, Manuel and Durán, Francisco and Eker, Steven and Escobar, Santiago and Lincoln, Patrick and Martí-Oliet, Narciso and Talcott, Carolyn},
 	title = {Two Decades of Maude},
 	publisher = {Springer},

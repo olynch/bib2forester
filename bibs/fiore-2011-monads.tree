@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1016/j.jpaa.2010.08.003}
 \meta{bibtex}{\verb>>|
-@article{fiore_Monads_2011,
+@article{fiore-2011-monads,
 	author = {Fiore, Thomas M. and Gambino, Nicola and Kock, Joachim},
 	title = {Monads in double categories},
 	journal = {Journal of Pure and Applied Algebra},

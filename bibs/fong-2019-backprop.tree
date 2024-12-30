@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.1109/lics.2019.8785665}
 \meta{bibtex}{\verb>>|
-@inproceedings{fong_Backprop_2019,
+@inproceedings{fong-2019-backprop,
 	author = {Fong, Brendan and Spivak, David and Tuyeras, Remy},
 	title = {Backprop as Functor: A compositional perspective on supervised learning},
 	publisher = {IEEE},

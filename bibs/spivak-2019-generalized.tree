@@ -4,7 +4,7 @@
 \taxon{reference}
 \meta{doi}{10.48550/ARXIV.1908.02202}
 \meta{bibtex}{\verb>>|
-@misc{spivak_Generalized_2019,
+@misc{spivak-2019-generalized,
 	author = {Spivak, David I.},
 	title = {Generalized Lens Categories via functors $\mathcalC^\mathrmop\to\mathsfCat$},
 	publisher = {arXiv},

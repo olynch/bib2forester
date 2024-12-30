@@ -6,7 +6,7 @@
 \taxon{reference}
 \meta{doi}{10.21105/joss.01891}
 \meta{bibtex}{\verb>>|
-@article{maciver_Hypothesis_2019,
+@article{maciver-2019-hypothesis,
 	author = {MacIver, David and Hatfield-Dodds, Zac and Contributors, Many},
 	title = {Hypothesis: A new approach to property-based testing},
 	journal = {Journal of Open Source Software},

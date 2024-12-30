@@ -5,7 +5,7 @@
 \taxon{reference}
 \meta{external}{https://topos.site/poly-book.pdf}
 \meta{bibtex}{\verb>>|
-@book{niu_Polynomial_2023,
+@book{niu-2023-polynomial,
 	author = {Niu, Nelson and Spivak, David I.},
 	title = {Polynomial Functors: A Mathematical Theory of Interaction},
 	year = {2023},
