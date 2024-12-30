@@ -1,0 +1,17 @@
+\title{On the Syntax and Semantics of CAP}
+\author{sebastian-gutsche}
+\author{sebastian-posur}
+\author{øystein-skartæterhagen}
+\date{2018}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inproceedings{gutsche_Syntax_2018,
+	author = {Gutsche, Sebastian and Posur, Sebastian and Skartæterhagen, Øystein},
+	title = {On the Syntax and Semantics of CAP},
+	year = {2018},
+	url = {https://www.cicm-conference.org/2018/infproc/paper21.pdf},
+	booktitle = {Proceedings of the Workshop Computer Algebra in the Age of Types},
+	editor = {Hasan, O. and Pfeiffer, M. and Reis, G. D.},
+	location = {Hagenberg, Austria}
+}
+>>}

@@ -1,0 +1,20 @@
+\title{A scalable module system}
+\author{florian-rabe}
+\author{michael-kohlhase}
+\date{2013}
+\taxon{reference}
+\meta{doi}{10.1016/j.ic.2013.06.001}
+\meta{bibtex}{\verb>>|
+@article{rabe_scalable_2013,
+	author = {Rabe, Florian and Kohlhase, Michael},
+	title = {A scalable module system},
+	journal = {Information and Computation},
+	publisher = {Elsevier BV},
+	year = {2013},
+	month = {September},
+	volume = {230},
+	pages = {1--54},
+	doi = {10.1016/j.ic.2013.06.001},
+	issn = {0890-5401}
+}
+>>}

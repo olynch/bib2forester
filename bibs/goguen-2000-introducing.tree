@@ -1,0 +1,21 @@
+\title{Introducing OBJ}
+\author{joseph-a.-goguen}
+\author{timothy-winkler}
+\author{josé-meseguer}
+\author{kokichi-futatsugi}
+\author{jean-pierre-jouannaud}
+\date{2000}
+\taxon{reference}
+\meta{doi}{10.1007/978-1-4757-6541-0_1}
+\meta{bibtex}{\verb>>|
+@inbook{goguen_Introducing_2000,
+	author = {Goguen, Joseph A. and Winkler, Timothy and Meseguer, José and Futatsugi, Kokichi and Jouannaud, Jean-Pierre},
+	title = {Introducing OBJ},
+	publisher = {Springer},
+	year = {2000},
+	pages = {3--167},
+	url = {http://dx.doi.org/10.1007/978-1-4757-6541-0_1},
+	doi = {10.1007/978-1-4757-6541-0_1},
+	booktitle = {Software Engineering with OBJ}
+}
+>>}

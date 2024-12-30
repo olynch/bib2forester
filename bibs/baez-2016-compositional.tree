@@ -1,0 +1,21 @@
+\title{A compositional framework for Markov processes}
+\author{john-c.-baez}
+\author{brendan-fong}
+\author{blake-s.-pollard}
+\date{2016}
+\taxon{reference}
+\meta{doi}{10.1063/1.4941578}
+\meta{bibtex}{\verb>>|
+@article{baez_compositional_2016,
+	author = {Baez, John C. and Fong, Brendan and Pollard, Blake S.},
+	title = {A compositional framework for Markov processes},
+	journal = {Journal of Mathematical Physics},
+	publisher = {AIP Publishing},
+	year = {2016},
+	month = {3},
+	number = {3},
+	volume = {57},
+	doi = {10.1063/1.4941578},
+	issn = {1089-7658}
+}
+>>}

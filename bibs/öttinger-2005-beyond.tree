@@ -1,0 +1,17 @@
+\title{Beyond Equilibrium Thermodynamics}
+\author{hans-christian-öttinger}
+\date{2005}
+\taxon{reference}
+\meta{doi}{10.1002/0471727903}
+\meta{bibtex}{\verb>>|
+@book{ottinger_Beyond_2005,
+	author = {Öttinger, Hans Christian},
+	title = {Beyond Equilibrium Thermodynamics},
+	publisher = {Wiley},
+	year = {2005},
+	month = {January},
+	url = {http://dx.doi.org/10.1002/0471727903},
+	doi = {10.1002/0471727903},
+	isbn = {9780471727903}
+}
+>>}

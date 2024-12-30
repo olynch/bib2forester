@@ -1,0 +1,16 @@
+\title{Categorical logic}
+\author{andrew-m.-pitts}
+\date{2001}
+\taxon{reference}
+\meta{doi}{10.1093/oso/9780198537816.003.0002}
+\meta{bibtex}{\verb>>|
+@incollection{pitts_Categorical_2001,
+	author = {Pitts, Andrew M.},
+	title = {Categorical logic},
+	year = {2001},
+	volume = {5},
+	pages = {39--128},
+	doi = {10.1093/oso/9780198537816.003.0002},
+	booktitle = {Handbook of Logic in Computer Science}
+}
+>>}

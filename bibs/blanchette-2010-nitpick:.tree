@@ -1,0 +1,18 @@
+\title{Nitpick: A counterexample generator for higher-order logic based on a relational model finder}
+\author{jasmin-christian-blanchette}
+\author{tobias-nipkow}
+\date{2010}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inproceedings{blanchette_Nitpick_2010,
+	author = {Blanchette, Jasmin Christian and Nipkow, Tobias},
+	title = {Nitpick: A counterexample generator for higher-order logic based on a relational model finder},
+	publisher = {Springer},
+	year = {2010},
+	volume = {6172},
+	pages = {131--146},
+	booktitle = {Interactive Theorem Proving (ITP 2010)},
+	editor = {Kaufmann, M. and Paulson, L.},
+	series = {LNCS}
+}
+>>}

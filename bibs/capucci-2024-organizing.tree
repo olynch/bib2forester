@@ -1,0 +1,20 @@
+\title{Organizing Physics with Open Energy-Driven Systems}
+\author{matteo-capucci}
+\author{owen-lynch}
+\author{david-i.-spivak}
+\date{2024}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{capucci_Organizing_2024,
+	author = {Capucci, Matteo and Lynch, Owen and Spivak, David I.},
+	title = {Organizing Physics with Open Energy-Driven Systems},
+	year = {2024},
+	month = {apr},
+	url = {http://arxiv.org/abs/2404.16140v1},
+	date = {2024-04-24T18:57:54Z},
+	eprint = {2404.16140v1},
+	eprintclass = {math.CT},
+	eprinttype = {arxiv},
+	urldate = {2024-05-09T21:36:52.772354Z}
+}
+>>}

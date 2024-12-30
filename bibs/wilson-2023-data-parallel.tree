@@ -1,0 +1,19 @@
+\title{Data-Parallel Algorithms for String Diagrams}
+\author{paul-wilson}
+\author{fabio-zanasi}
+\date{2023}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{wilson_Data_2023,
+	author = {Wilson, Paul and Zanasi, Fabio},
+	title = {Data-Parallel Algorithms for String Diagrams},
+	year = {2023},
+	month = {may},
+	url = {http://arxiv.org/abs/2305.01041v1},
+	date = {2023-05-01T19:02:20Z},
+	eprint = {2305.01041v1},
+	eprintclass = {math.CT},
+	eprinttype = {arxiv},
+	urldate = {2024-02-18T20:45:08.511811Z}
+}
+>>}

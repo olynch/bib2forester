@@ -1,0 +1,19 @@
+\title{Backprop as Functor: A compositional perspective on supervised learning}
+\author{brendan-fong}
+\author{david-spivak}
+\author{remy-tuyeras}
+\date{2019}
+\taxon{reference}
+\meta{doi}{10.1109/lics.2019.8785665}
+\meta{bibtex}{\verb>>|
+@inproceedings{fong_Backprop_2019,
+	author = {Fong, Brendan and Spivak, David and Tuyeras, Remy},
+	title = {Backprop as Functor: A compositional perspective on supervised learning},
+	publisher = {IEEE},
+	year = {2019},
+	month = {June},
+	url = {http://dx.doi.org/10.1109/LICS.2019.8785665},
+	doi = {10.1109/lics.2019.8785665},
+	booktitle = {2019 34th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)}
+}
+>>}

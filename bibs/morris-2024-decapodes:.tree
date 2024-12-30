@@ -1,0 +1,20 @@
+\title{Decapodes: A Diagrammatic Tool for Representing, Composing, and
+Computing Spatialized Partial Differential Equations}
+\author{luke-morris}
+\author{andrew-baas}
+\author{jesus-arias}
+\author{maia-gatlin}
+\author{evan-patterson}
+\author{james-p.-fairbanks}
+\date{2024}
+\taxon{reference}
+\meta{doi}{10.48550/arXiv.2401.17432}
+\meta{bibtex}{\verb>>|
+@article{morris_Decapodes_2024,
+	author = {Morris, Luke and Baas, Andrew and Arias, Jesus and Gatlin, Maia and Patterson, Evan and Fairbanks, James P.},
+	title = {Decapodes: A Diagrammatic Tool for Representing, Composing, and
+Computing Spatialized Partial Differential Equations},
+	year = {2024},
+	doi = {10.48550/arXiv.2401.17432}
+}
+>>}

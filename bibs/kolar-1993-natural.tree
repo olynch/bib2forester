@@ -1,0 +1,18 @@
+\title{Natural operations in differential geometry}
+\author{ivan-kolar}
+\author{peter-w-michor}
+\author{jan-slovak}
+\date{1993}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@book{kolar_Natural_1993,
+	author = {Kolar, Ivan and Michor, Peter W and Slovak, Jan},
+	title = {Natural operations in differential geometry},
+	publisher = {Springer},
+	year = {1993},
+	month = {January},
+	address = {Berlin, Germany},
+	edition = {1993},
+	isbn = {3-540-56235-4}
+}
+>>}

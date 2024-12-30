@@ -1,0 +1,17 @@
+\title{1ML – Core and modules united}
+\author{andreas-rossberg}
+\date{2018}
+\taxon{reference}
+\meta{doi}{10.1017/s0956796818000205}
+\meta{bibtex}{\verb>>|
+@article{rossberg_1ML_2018,
+	author = {Rossberg, Andreas},
+	title = {1ML – Core and modules united},
+	journal = {Journal of Functional Programming},
+	publisher = {Cambridge University Press (CUP)},
+	year = {2018},
+	volume = {28},
+	doi = {10.1017/s0956796818000205},
+	issn = {1469-7653}
+}
+>>}

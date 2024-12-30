@@ -1,0 +1,21 @@
+\title{Alloy*: a general-purpose higher-order relational constraint solver}
+\author{aleksandar-milicevic}
+\author{joseph-p.-near}
+\author{eunsuk-kang}
+\author{daniel-jackson}
+\date{2015}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inproceedings{milicevic_Alloy_2015,
+	author = {Milicevic, Aleksandar and Near, Joseph P. and Kang, Eunsuk and Jackson, Daniel},
+	title = {Alloy*: a general-purpose higher-order relational constraint solver},
+	publisher = {IEEE Press},
+	year = {2015},
+	pages = {609--619},
+	booktitle = {Proceedings of the 37th International Conference on Software Engineering - Volume 1},
+	isbn = {9781479919345},
+	location = {Florence, Italy},
+	numpages = {11},
+	series = {ICSE '15}
+}
+>>}

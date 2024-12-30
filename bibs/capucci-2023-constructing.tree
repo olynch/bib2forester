@@ -1,0 +1,18 @@
+\title{Constructing Triple Categories of Cybernetic Processes}
+\author{matteo-capucci}
+\author{david-jaz-myers}
+\date{2023}
+\taxon{reference}
+\meta{doi}{10.5281/zenodo.8215544}
+\meta{bibtex}{\verb>>|
+@unpublished{capucci_Constructing_2023,
+	author = {Capucci, Matteo and Myers, David Jaz},
+	title = {Constructing Triple Categories of Cybernetic Processes},
+	year = {2023},
+	doi = {10.5281/zenodo.8215544},
+	date = {2023-08-04},
+	keyword = {applied category theory, categorical cybernetics, categorical systems theory},
+	langid = {english},
+	venue = {Maryland}
+}
+>>}

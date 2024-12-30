@@ -1,0 +1,20 @@
+\title{Dynamic Operads, Dynamic Categories: From Deep Learning to Prediction Markets}
+\author{brandon-t.-shapiro}
+\author{david-i.-spivak}
+\date{2023}
+\taxon{reference}
+\meta{doi}{10.4204/eptcs.380.11}
+\meta{bibtex}{\verb>>|
+@article{shapiro_Dynamic_2023,
+	author = {Shapiro, Brandon T. and Spivak, David I.},
+	title = {Dynamic Operads, Dynamic Categories: From Deep Learning to Prediction Markets},
+	journal = {Electronic Proceedings in Theoretical Computer Science},
+	publisher = {Open Publishing Association},
+	year = {2023},
+	month = {August},
+	volume = {380},
+	pages = {183--202},
+	doi = {10.4204/eptcs.380.11},
+	issn = {2075-2180}
+}
+>>}

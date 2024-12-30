@@ -1,0 +1,20 @@
+\title{A 2-Categories Companion}
+\author{stephen-lack}
+\date{2009}
+\taxon{reference}
+\meta{doi}{10.1007/978-1-4419-1524-5_4}
+\meta{bibtex}{\verb>>|
+@inbook{lack_2_2009,
+	author = {Lack, Stephen},
+	title = {A 2-Categories Companion},
+	publisher = {Springer New York},
+	year = {2009},
+	month = {September},
+	pages = {105--191},
+	url = {http://dx.doi.org/10.1007/978-1-4419-1524-5_4},
+	doi = {10.1007/978-1-4419-1524-5_4},
+	booktitle = {The IMA Volumes in Mathematics and its Applications},
+	isbn = {9781441915245},
+	issn = {0940-6573}
+}
+>>}

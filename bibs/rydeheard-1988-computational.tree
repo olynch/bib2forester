@@ -1,0 +1,13 @@
+\title{Computational Category Theory}
+\author{d.-e.-rydeheard}
+\author{r.-m.-burstall}
+\date{1988}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@book{rydeheard_Computational_1988,
+	author = {Rydeheard, D. E. and Burstall, R. M.},
+	title = {Computational Category Theory},
+	publisher = {Prentice Hall},
+	year = {1988}
+}
+>>}

@@ -1,0 +1,14 @@
+\title{A Unified Treatment of Transfinite Constructions for Free Algebras, Free Monoids, Colimits, Associated Sheaves, and So On}
+\author{g.-m.-kelly}
+\date{1980}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{kelly_Unified_1980,
+	author = {Kelly, G. M.},
+	title = {A Unified Treatment of Transfinite Constructions for Free Algebras, Free Monoids, Colimits, Associated Sheaves, and So On},
+	journal = {Bull. Austral. Math. Soc.},
+	year = {1980},
+	volume = {22},
+	pages = {1--83}
+}
+>>}

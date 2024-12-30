@@ -1,0 +1,22 @@
+\title{Hypothesis: A new approach to property-based testing}
+\author{david-maciver}
+\author{zac-hatfield-dodds}
+\author{many-contributors}
+\date{2019}
+\taxon{reference}
+\meta{doi}{10.21105/joss.01891}
+\meta{bibtex}{\verb>>|
+@article{maciver_Hypothesis_2019,
+	author = {MacIver, David and Hatfield-Dodds, Zac and Contributors, Many},
+	title = {Hypothesis: A new approach to property-based testing},
+	journal = {Journal of Open Source Software},
+	publisher = {The Open Journal},
+	year = {2019},
+	month = {November},
+	number = {43},
+	volume = {4},
+	pages = {1891},
+	doi = {10.21105/joss.01891},
+	issn = {2475-9066}
+}
+>>}

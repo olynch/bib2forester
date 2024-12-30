@@ -1,0 +1,21 @@
+\title{Fibered categories and the foundations of naive category theory}
+\author{jean-bénabou}
+\date{1985}
+\taxon{reference}
+\meta{doi}{10.2307/2273784}
+\meta{bibtex}{\verb>>|
+@article{benabou_Fibered_1985,
+	author = {Bénabou, Jean},
+	title = {Fibered categories and the foundations of naive category theory},
+	journal = {Journal of Symbolic Logic},
+	publisher = {Cambridge University Press (CUP)},
+	year = {1985},
+	month = {March},
+	number = {1},
+	volume = {50},
+	pages = {10--37},
+	url = {http://dx.doi.org/10.2307/2273784},
+	doi = {10.2307/2273784},
+	issn = {1943-5886}
+}
+>>}

@@ -1,0 +1,21 @@
+\title{Pattern runs on matter: The free monad monad as a module over the cofree
+comonad comonad}
+\author{sophie-libkind}
+\author{david-i.-spivak}
+\date{2024}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{libkind_Pattern_2024,
+	author = {Libkind, Sophie and Spivak, David I.},
+	title = {Pattern runs on matter: The free monad monad as a module over the cofree
+comonad comonad},
+	year = {2024},
+	month = {apr},
+	url = {http://arxiv.org/abs/2404.16321v1},
+	date = {2024-04-25T03:59:34Z},
+	eprint = {2404.16321v1},
+	eprintclass = {math.CT},
+	eprinttype = {arxiv},
+	urldate = {2024-05-10T21:06:21.812930Z}
+}
+>>}

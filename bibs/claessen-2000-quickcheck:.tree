@@ -1,0 +1,20 @@
+\title{QuickCheck: a lightweight tool for random testing of Haskell programs}
+\author{koen-claessen}
+\author{john-hughes}
+\date{2000}
+\taxon{reference}
+\meta{doi}{10.1145/351240.351266}
+\meta{bibtex}{\verb>>|
+@inproceedings{claessen_QuickCheck_2000,
+	author = {Claessen, Koen and Hughes, John},
+	title = {QuickCheck: a lightweight tool for random testing of Haskell programs},
+	publisher = {ACM},
+	year = {2000},
+	month = {September},
+	url = {http://dx.doi.org/10.1145/351240.351266},
+	doi = {10.1145/351240.351266},
+	booktitle = {Proceedings of the fifth ACM SIGPLAN international conference on Functional programming},
+	collection = {ICFP00},
+	series = {ICFP00}
+}
+>>}

@@ -1,0 +1,22 @@
+\title{Towards Foundations of Categorical Cybernetics}
+\author{matteo-capucci}
+\author{bruno-gavranović}
+\author{jules-hedges}
+\author{eigil-fjeldgren-rischel}
+\date{2022}
+\taxon{reference}
+\meta{doi}{10.4204/eptcs.372.17}
+\meta{bibtex}{\verb>>|
+@article{capucci_Towards_2022,
+	author = {Capucci, Matteo and Gavranović, Bruno and Hedges, Jules and Rischel, Eigil Fjeldgren},
+	title = {Towards Foundations of Categorical Cybernetics},
+	journal = {Electronic Proceedings in Theoretical Computer Science},
+	publisher = {Open Publishing Association},
+	year = {2022},
+	month = {November},
+	volume = {372},
+	pages = {235--248},
+	doi = {10.4204/eptcs.372.17},
+	issn = {2075-2180}
+}
+>>}

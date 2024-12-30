@@ -1,0 +1,21 @@
+\title{Open systems in classical mechanics}
+\author{john-c.-baez}
+\author{david-weisbart}
+\author{adam-m.-yassine}
+\date{2021}
+\taxon{reference}
+\meta{doi}{10.1063/5.0029885}
+\meta{bibtex}{\verb>>|
+@article{baez_Open_2021,
+	author = {Baez, John C. and Weisbart, David and Yassine, Adam M.},
+	title = {Open systems in classical mechanics},
+	journal = {Journal of Mathematical Physics},
+	publisher = {AIP Publishing},
+	year = {2021},
+	month = {April},
+	number = {4},
+	volume = {62},
+	doi = {10.1063/5.0029885},
+	issn = {1089-7658}
+}
+>>}

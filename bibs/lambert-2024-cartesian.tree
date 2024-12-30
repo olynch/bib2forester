@@ -1,0 +1,18 @@
+\title{Cartesian double theories: A double-categorical framework for categorical doctrines}
+\author{michael-lambert}
+\author{evan-patterson}
+\date{2024}
+\taxon{reference}
+\meta{doi}{10.1016/j.aim.2024.109630}
+\meta{bibtex}{\verb>>|
+@article{lambert_Cartesian_2024,
+	author = {Lambert, Michael and Patterson, Evan},
+	title = {Cartesian double theories: A double-categorical framework for categorical doctrines},
+	journal = {Advances in Mathematics},
+	year = {2024},
+	month = {May},
+	volume = {444},
+	pages = {109--630},
+	doi = {10.1016/j.aim.2024.109630}
+}
+>>}

@@ -1,0 +1,29 @@
+\title{High-Performance Symbolic-Numerics via Multiple Dispatch}
+\author{shashi-gowda}
+\author{yingbo-ma}
+\author{alessandro-cheli}
+\author{maja-gwóźzdź}
+\author{viral-b.-shah}
+\author{alan-edelman}
+\author{christopher-rackauckas}
+\date{2022}
+\taxon{reference}
+\meta{doi}{10.1145/3511528.3511535}
+\meta{bibtex}{\verb>>|
+@article{gowda_High_2022,
+	author = {Gowda, Shashi and Ma, Yingbo and Cheli, Alessandro and Gwóźzdź, Maja and Shah, Viral B. and Edelman, Alan and Rackauckas, Christopher},
+	title = {High-Performance Symbolic-Numerics via Multiple Dispatch},
+	journal = {ACM Commun. Comput. Algebra},
+	publisher = {Association for Computing Machinery},
+	year = {2022},
+	month = {jan},
+	number = {3},
+	volume = {55},
+	pages = {92--96},
+	doi = {10.1145/3511528.3511535},
+	address = {New York, NY, USA},
+	issn = {1932-2240},
+	issue_date = {September 2021},
+	numpages = {5}
+}
+>>}

@@ -1,0 +1,15 @@
+\title{Typed Image-based Programming with Structure Editing}
+\author{jonathan-edwards}
+\author{tomas-petricek}
+\date{2021}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{edwards_Typed_2021,
+	author = {Edwards, Jonathan and Petricek, Tomas},
+	title = {Typed Image-based Programming with Structure Editing},
+	year = {2021},
+	archiveprefix = {arXiv},
+	eprint = {2110.08993v1},
+	primaryclass = {cs.PL}
+}
+>>}

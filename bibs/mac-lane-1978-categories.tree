@@ -1,0 +1,15 @@
+\title{Categories for the Working Mathematician}
+\author{saunders-mac-lane}
+\date{1978}
+\taxon{reference}
+\meta{doi}{10.1007/978-1-4757-4721-8}
+\meta{bibtex}{\verb>>|
+@book{maclane_Categories_1978,
+	author = {Mac Lane, Saunders},
+	title = {Categories for the Working Mathematician},
+	journal = {Graduate Texts in Mathematics},
+	publisher = {Springer New York},
+	year = {1978},
+	doi = {10.1007/978-1-4757-4721-8}
+}
+>>}

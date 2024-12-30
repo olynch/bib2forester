@@ -1,0 +1,13 @@
+\title{Bindings as Sets of Scopes}
+\author{matthew-flatt}
+\date{2015}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@unpublished{flatt_Bindings_2015,
+	author = {Flatt, Matthew},
+	title = {Bindings as Sets of Scopes},
+	year = {2015},
+	url = {https://www.youtube.com/watch?v=ABWLveMNdzg},
+	note = {(fifth RacketCon)}
+}
+>>}

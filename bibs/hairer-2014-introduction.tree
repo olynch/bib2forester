@@ -1,0 +1,12 @@
+\title{Introduction to Regularity Structures}
+\author{martin-hairer}
+\date{2014}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{hairer_Introduction_2014,
+	author = {Hairer, Martin},
+	title = {Introduction to Regularity Structures},
+	year = {2014},
+	url = {https://www.hairer.org/notes/Regularity.pdf}
+}
+>>}

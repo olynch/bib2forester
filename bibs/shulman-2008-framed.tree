@@ -1,0 +1,16 @@
+\title{Framed bicategories and monoidal fibrations}
+\author{michael-shulman}
+\date{2008}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{shulman_Framed_2008,
+	author = {Shulman, Michael},
+	title = {Framed bicategories and monoidal fibrations},
+	journal = {Theory and Applications of Categories},
+	year = {2008},
+	number = {18},
+	volume = {20},
+	pages = {650--738},
+	url = {http://www.tac.mta.ca/tac/volumes/20/18/20-18.pdf}
+}
+>>}

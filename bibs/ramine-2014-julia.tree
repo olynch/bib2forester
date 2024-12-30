@@ -1,0 +1,27 @@
+\title{Julia has no dependent types}
+\author{anthony-ramine}
+\author{jameson-nash}
+\author{keno-fischer}
+\author{jon-sterling}
+\author{carter-tazio-schonwald}
+\author{stefan-karpinski}
+\author{brian-mckenna}
+\author{jeff-bezanson}
+\author{sam-cawtawba}
+\author{edward-kmett}
+\author{tobias-knopp}
+\author{rebecca-valentine}
+\author{joseph-abrahamson}
+\author{isaiah-norton}
+\author{john-myles-white}
+\author{milan-bouchet-valat}
+\date{2014}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@online{ramine_Julia_2014,
+	author = {Ramine, Anthony and Nash, Jameson and Fischer, Keno and Sterling, Jon and Schonwald, Carter Tazio and Karpinski, Stefan and McKenna, Brian and Bezanson, Jeff and Cawtawba, Sam and Kmett, Edward and Knopp, Tobias and Valentine, Rebecca and Abrahamson, Joseph and Norton, Isaiah and White, John Myles and Bouchet-Valat, Milan},
+	title = {Julia has no dependent types},
+	year = {2014},
+	url = {https://github.com/JuliaLang/julia/issues/6113}
+}
+>>}

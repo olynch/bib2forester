@@ -1,0 +1,13 @@
+\title{Mathematical methods of classical mechanics}
+\author{vladimir-igorevich-arnol'd}
+\date{2013}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@book{arnold_Mathematical_2013,
+	author = {Arnol'd, Vladimir Igorevich},
+	title = {Mathematical methods of classical mechanics},
+	publisher = {Springer Science \& Business Media},
+	year = {2013},
+	volume = {60}
+}
+>>}

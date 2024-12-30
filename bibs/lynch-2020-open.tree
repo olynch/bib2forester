@@ -1,0 +1,13 @@
+\title{Open Systems for the Working Mathematician}
+\author{owen-lynch}
+\date{2020}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@thesis{lynch_Open_2020,
+	author = {Lynch, Owen},
+	title = {Open Systems for the Working Mathematician},
+	year = {2020},
+	url = {https://www.brown.edu/academics/math/sites/math/files/O.Lynch%20thesis.pdf},
+	type = {B.Sc. Honors Thesis}
+}
+>>}

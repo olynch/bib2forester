@@ -1,0 +1,21 @@
+\title{Compositional thermostatics}
+\author{john-c.-baez}
+\author{owen-lynch}
+\author{joe-moeller}
+\date{2023}
+\taxon{reference}
+\meta{doi}{10.1063/5.0089375}
+\meta{bibtex}{\verb>>|
+@article{baez_Compositional_2023,
+	author = {Baez, John C. and Lynch, Owen and Moeller, Joe},
+	title = {Compositional thermostatics},
+	journal = {Journal of Mathematical Physics},
+	publisher = {AIP Publishing},
+	year = {2023},
+	month = {February},
+	number = {2},
+	volume = {64},
+	doi = {10.1063/5.0089375},
+	issn = {1089-7658}
+}
+>>}

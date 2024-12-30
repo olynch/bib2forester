@@ -1,0 +1,17 @@
+\title{Modules for standard ML}
+\author{david-macqueen}
+\date{1984}
+\taxon{reference}
+\meta{doi}{10.1145/800055.802036}
+\meta{bibtex}{\verb>>|
+@inproceedings{macqueen_Modules_1984,
+	author = {MacQueen, David},
+	title = {Modules for standard ML},
+	publisher = {ACM Press},
+	year = {1984},
+	doi = {10.1145/800055.802036},
+	booktitle = {Proceedings of the 1984 ACM Symposium on LISP and functional programming  - LFP ’84},
+	collection = {LFP ’84},
+	series = {LFP ’84}
+}
+>>}

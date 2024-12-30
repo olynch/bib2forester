@@ -1,0 +1,18 @@
+\title{{MathScheme}: project description}
+\author{jacques-carette}
+\author{william-m-farmer}
+\author{russell-o’connor}
+\date{2011}
+\taxon{reference}
+\meta{doi}{10.1007/978-3-642-22673-1_23}
+\meta{bibtex}{\verb>>|
+@inproceedings{carette_MathScheme_2011,
+	author = {Carette, Jacques and Farmer, William M and O’Connor, Russell},
+	title = {{MathScheme}: project description},
+	year = {2011},
+	pages = {287--288},
+	doi = {10.1007/978-3-642-22673-1_23},
+	booktitle = {Intelligent Computer Mathematics: 18th Symposium, Calculemus 2011, and 10th International Conference, MKM 2011, Bertinoro, Italy, July 18-23, 2011. Proceedings 4},
+	organization = {Springer}
+}
+>>}

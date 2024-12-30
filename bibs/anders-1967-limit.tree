@@ -1,0 +1,12 @@
+\title{Limit monads in categories}
+\author{kock-anders}
+\date{1967}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@phdthesis{anders_Limit_1967,
+	author = {Anders, Kock},
+	title = {Limit monads in categories},
+	year = {1967},
+	school = {University of Chicago}
+}
+>>}

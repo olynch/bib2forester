@@ -1,0 +1,20 @@
+\title{Linear usage of state}
+\author{rasmus-ejlers-møgelberg}
+\author{sam-staton}
+\date{2014}
+\taxon{reference}
+\meta{doi}{10.2168/lmcs-10(1:17)2014}
+\meta{bibtex}{\verb>>|
+@article{mgelberg_Linear_2014,
+	author = {Møgelberg, Rasmus Ejlers and Staton, Sam},
+	title = {Linear usage of state},
+	journal = {Logical Methods in Computer Science},
+	publisher = {Centre pour la Communication Scientifique Directe (CCSD)},
+	year = {2014},
+	month = {March},
+	volume = {Volume 10, Issue 1},
+	url = {http://dx.doi.org/10.2168/LMCS-10(1:17)2014},
+	doi = {10.2168/lmcs-10(1:17)2014},
+	issn = {1860-5974}
+}
+>>}

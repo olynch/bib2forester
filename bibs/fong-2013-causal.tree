@@ -1,0 +1,13 @@
+\title{Causal Theories: A Categorical Perspective on Bayesian Networks}
+\author{brendan-fong}
+\date{2013}
+\taxon{reference}
+\meta{doi}{10.48550/ARXIV.1301.6201}
+\meta{bibtex}{\verb>>|
+@misc{fong_Causal_2013,
+	author = {Fong, Brendan},
+	title = {Causal Theories: A Categorical Perspective on Bayesian Networks},
+	year = {2013},
+	doi = {10.48550/ARXIV.1301.6201}
+}
+>>}

@@ -1,0 +1,18 @@
+\title{From Finite Sets to Feynman Diagrams}
+\author{john-c.-baez}
+\author{james-dolan}
+\date{2001}
+\taxon{reference}
+\meta{doi}{10.1007/978-3-642-56478-9_3}
+\meta{bibtex}{\verb>>|
+@inbook{baez_From_2001,
+	author = {Baez, John C. and Dolan, James},
+	title = {From Finite Sets to Feynman Diagrams},
+	publisher = {Springer Berlin Heidelberg},
+	year = {2001},
+	pages = {29--50},
+	doi = {10.1007/978-3-642-56478-9_3},
+	booktitle = {Mathematics Unlimited — 2001 and Beyond},
+	isbn = {9783642564789}
+}
+>>}

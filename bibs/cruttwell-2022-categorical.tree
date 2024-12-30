@@ -1,0 +1,23 @@
+\title{Categorical Foundations of Gradient-Based Learning}
+\author{geoffrey-s.-h.-cruttwell}
+\author{bruno-gavranović}
+\author{neil-ghani}
+\author{paul-wilson}
+\author{fabio-zanasi}
+\date{2022}
+\taxon{reference}
+\meta{doi}{10.1007/978-3-030-99336-8_1}
+\meta{bibtex}{\verb>>|
+@inbook{cruttwell_Categorical_2022,
+	author = {Cruttwell, Geoffrey S. H. and Gavranović, Bruno and Ghani, Neil and Wilson, Paul and Zanasi, Fabio},
+	title = {Categorical Foundations of Gradient-Based Learning},
+	publisher = {Springer International Publishing},
+	year = {2022},
+	pages = {1--28},
+	url = {http://dx.doi.org/10.1007/978-3-030-99336-8_1},
+	doi = {10.1007/978-3-030-99336-8_1},
+	booktitle = {Lecture Notes in Computer Science},
+	isbn = {9783030993368},
+	issn = {1611-3349}
+}
+>>}

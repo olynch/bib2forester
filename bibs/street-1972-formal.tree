@@ -1,0 +1,21 @@
+\title{The formal theory of monads}
+\author{ross-street}
+\date{1972}
+\taxon{reference}
+\meta{doi}{10.1016/0022-4049(72)90019-9}
+\meta{bibtex}{\verb>>|
+@article{street_formal_1972,
+	author = {Street, Ross},
+	title = {The formal theory of monads},
+	journal = {Journal of Pure and Applied Algebra},
+	publisher = {Elsevier BV},
+	year = {1972},
+	month = {July},
+	number = {2},
+	volume = {2},
+	pages = {149--168},
+	url = {http://dx.doi.org/10.1016/0022-4049(72)90019-9},
+	doi = {10.1016/0022-4049(72)90019-9},
+	issn = {0022-4049}
+}
+>>}

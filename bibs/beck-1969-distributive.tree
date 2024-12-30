@@ -1,0 +1,18 @@
+\title{Distributive laws}
+\author{jon-beck}
+\date{1969}
+\taxon{reference}
+\meta{doi}{10.1007/bfb0083084}
+\meta{bibtex}{\verb>>|
+@inbook{beck_Distributive_1969,
+	author = {Beck, Jon},
+	title = {Distributive laws},
+	publisher = {Springer Berlin Heidelberg},
+	year = {1969},
+	pages = {119--140},
+	doi = {10.1007/bfb0083084},
+	booktitle = {Lecture Notes in Mathematics},
+	isbn = {9783540360919},
+	issn = {1617-9692}
+}
+>>}

@@ -1,0 +1,20 @@
+\title{Lenses and Learners}
+\author{brendan-fong}
+\author{michael-johnson}
+\date{2019}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inproceedings{fong_Lenses_2019,
+	author = {Fong, Brendan and Johnson, Michael},
+	title = {Lenses and Learners},
+	publisher = {CEUR-WS.org},
+	year = {2019},
+	volume = {2355},
+	pages = {16--29},
+	url = {https://ceur-ws.org/Vol-2355/paper2.pdf},
+	booktitle = {Proceedings of the 8th International Workshop on Bidirectional Transformations Co-Located with the Philadelphia Logic Week, Bx@PLW 2019, Philadelphia, PA, USA, June 4, 2019},
+	editor = {Cheney, James and Ko, Hsiang-Shang},
+	series = {CEUR Workshop Proceedings},
+	timestamp = {Fri, 10 Mar 2023 16:22:11 +0100}
+}
+>>}

@@ -1,0 +1,16 @@
+\title{Discrete Double Fibrations}
+\author{michael-lambert}
+\date{2021}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{lambert_Discrete_2021,
+	author = {Lambert, Michael},
+	title = {Discrete Double Fibrations},
+	journal = {Theory & Applications of Categories},
+	year = {2021},
+	month = {June},
+	number = {22},
+	volume = {37},
+	pages = {671--708}
+}
+>>}

@@ -1,0 +1,21 @@
+\title{Modelica - An International Effort to Design the Next Generation Modeling Language}
+\author{sven-erik-mattsson}
+\author{hilding-elmqvist}
+\date{1997}
+\taxon{reference}
+\meta{doi}{10.1016/s1474-6670(17)43628-7}
+\meta{bibtex}{\verb>>|
+@article{mattsson_Modelica_1997,
+	author = {Mattsson, Sven Erik and Elmqvist, Hilding},
+	title = {Modelica - An International Effort to Design the Next Generation Modeling Language},
+	journal = {IFAC Proceedings Volumes},
+	publisher = {Elsevier BV},
+	year = {1997},
+	month = {April},
+	number = {4},
+	volume = {30},
+	pages = {151--155},
+	doi = {10.1016/s1474-6670(17)43628-7},
+	issn = {1474-6670}
+}
+>>}

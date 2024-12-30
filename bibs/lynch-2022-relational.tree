@@ -1,0 +1,13 @@
+\title{Relational Composition of Physical Systems: A Categorical Approach}
+\author{owen-lynch}
+\date{2022}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@mastersthesis{lynch_Relational_2022,
+	author = {Lynch, Owen},
+	title = {Relational Composition of Physical Systems: A Categorical Approach},
+	year = {2022},
+	url = {https://studenttheses.uu.nl/handle/20.500.12932/41725},
+	type = {M.Sc. thesis}
+}
+>>}

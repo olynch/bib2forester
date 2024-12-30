@@ -1,0 +1,19 @@
+\title{Data Types with Symmetries and Polynomial Functors over Groupoids}
+\author{joachim-kock}
+\date{2012}
+\taxon{reference}
+\meta{doi}{10.1016/j.entcs.2013.01.001}
+\meta{bibtex}{\verb>>|
+@article{kock_Data_2012,
+	author = {Kock, Joachim},
+	title = {Data Types with Symmetries and Polynomial Functors over Groupoids},
+	journal = {Electronic Notes in Theoretical Computer Science},
+	publisher = {Elsevier BV},
+	year = {2012},
+	month = {September},
+	volume = {286},
+	pages = {351--365},
+	doi = {10.1016/j.entcs.2013.01.001},
+	issn = {1571-0661}
+}
+>>}

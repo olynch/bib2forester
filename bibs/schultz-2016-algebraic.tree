@@ -1,0 +1,19 @@
+\title{Algebraic Databases}
+\author{patrick-schultz}
+\author{david-i.-spivak}
+\author{christina-vasilakopoulou}
+\author{ryan-wisnesky}
+\date{2016}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{schultz_Algebraic_2016,
+	author = {Schultz, Patrick and Spivak, David I. and Vasilakopoulou, Christina and Wisnesky, Ryan},
+	title = {Algebraic Databases},
+	journal = {Theory and Applications of Categories},
+	year = {2016},
+	number = {16},
+	volume = {32},
+	pages = {547--619},
+	eprint = {1602.03501}
+}
+>>}

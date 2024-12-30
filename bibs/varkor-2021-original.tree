@@ -1,0 +1,12 @@
+\title{Original reference for the Fam construction}
+\author{nathaniel-varkor}
+\date{2021}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@misc{varkor_Original_2021,
+	author = {Varkor, Nathaniel},
+	title = {Original reference for the Fam construction},
+	year = {2021},
+	url = {https://mathoverflow.net/questions/393917/original-reference-for-the-fam-construction}
+}
+>>}

@@ -1,0 +1,23 @@
+\title{Categorical Semantics of Cyber-Physical Systems Theory}
+\author{georgios-bakirtzis}
+\author{cody-h.-fleming}
+\author{christina-vasilakopoulou}
+\date{2021}
+\taxon{reference}
+\meta{doi}{10.1145/3461669}
+\meta{bibtex}{\verb>>|
+@article{bakirtzis_Categorical_2021,
+	author = {Bakirtzis, Georgios and Fleming, Cody H. and Vasilakopoulou, Christina},
+	title = {Categorical Semantics of Cyber-Physical Systems Theory},
+	journal = {ACM Transactions on Cyber-Physical Systems},
+	year = {2021},
+	month = {July},
+	number = {3},
+	volume = {5},
+	pages = {1--32},
+	doi = {10.1145/3461669},
+	issn = {2378-962X, 2378-9638},
+	language = {en},
+	urldate = {2023-11-06}
+}
+>>}

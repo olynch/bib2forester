@@ -1,0 +1,24 @@
+\title{Affine Monads and Lazy Structures for Bayesian Programming}
+\author{swaraj-dash}
+\author{younesse-kaddar}
+\author{hugo-paquet}
+\author{sam-staton}
+\date{2023}
+\taxon{reference}
+\meta{doi}{10.1145/3571239}
+\meta{bibtex}{\verb>>|
+@article{dash_Affine_2023,
+	author = {Dash, Swaraj and Kaddar, Younesse and Paquet, Hugo and Staton, Sam},
+	title = {Affine Monads and Lazy Structures for Bayesian Programming},
+	journal = {Proceedings of the ACM on Programming Languages},
+	publisher = {Association for Computing Machinery (ACM)},
+	year = {2023},
+	month = {January},
+	number = {POPL},
+	volume = {7},
+	pages = {1338--1368},
+	url = {http://dx.doi.org/10.1145/3571239},
+	doi = {10.1145/3571239},
+	issn = {2475-1421}
+}
+>>}

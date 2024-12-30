@@ -1,0 +1,22 @@
+\title{The Essence of Dependent Object Types}
+\author{nada-amin}
+\author{samuel-grütter}
+\author{martin-odersky}
+\author{tiark-rompf}
+\author{sandro-stucki}
+\date{2016}
+\taxon{reference}
+\meta{doi}{10.1007/978-3-319-30936-1_14}
+\meta{bibtex}{\verb>>|
+@inbook{amin_Essence_2016,
+	author = {Amin, Nada and Grütter, Samuel and Odersky, Martin and Rompf, Tiark and Stucki, Sandro},
+	title = {The Essence of Dependent Object Types},
+	publisher = {Springer International Publishing},
+	year = {2016},
+	pages = {249--272},
+	doi = {10.1007/978-3-319-30936-1_14},
+	booktitle = {Lecture Notes in Computer Science},
+	isbn = {9783319309361},
+	issn = {1611-3349}
+}
+>>}

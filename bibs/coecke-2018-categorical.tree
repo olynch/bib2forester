@@ -1,0 +1,17 @@
+\title{Categorical Quantum Mechanics I: Causal Quantum Processes}
+\author{bob-coecke}
+\author{aleks-kissinger}
+\date{2018}
+\taxon{reference}
+\meta{doi}{10.1093/oso/9780198748991.003.0012}
+\meta{bibtex}{\verb>>|
+@book{coecke_Categorical_2018,
+	author = {Coecke, Bob and Kissinger, Aleks},
+	title = {Categorical Quantum Mechanics I: Causal Quantum Processes},
+	journal = {Oxford Scholarship Online},
+	publisher = {Oxford University Press},
+	year = {2018},
+	month = {January},
+	doi = {10.1093/oso/9780198748991.003.0012}
+}
+>>}

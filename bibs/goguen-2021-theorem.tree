@@ -1,0 +1,13 @@
+\title{Theorem Proving and Algebra}
+\author{joseph-a.-goguen}
+\date{2021}
+\taxon{reference}
+\meta{doi}{10.48550/arXiv.2101.02690}
+\meta{bibtex}{\verb>>|
+@misc{goguen_Theorem_2021,
+	author = {Goguen, Joseph A.},
+	title = {Theorem Proving and Algebra},
+	year = {2021},
+	doi = {10.48550/arXiv.2101.02690}
+}
+>>}

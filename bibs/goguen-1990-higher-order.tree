@@ -1,0 +1,17 @@
+\title{Higher-order functions considered unnecessary for higher-order programming}
+\author{joseph-a.-goguen}
+\date{1990}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inbook{goguen_Higher_1990,
+	author = {Goguen, Joseph A.},
+	title = {Higher-order functions considered unnecessary for higher-order programming},
+	publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+	year = {1990},
+	pages = {309--351},
+	address = {USA},
+	booktitle = {Research Topics in Functional Programming},
+	isbn = {0201172364},
+	numpages = {43}
+}
+>>}

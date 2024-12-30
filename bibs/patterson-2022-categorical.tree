@@ -1,0 +1,21 @@
+\title{Categorical Data Structures for Technical Computing}
+\author{evan-patterson}
+\author{owen-lynch}
+\author{james-fairbanks}
+\date{2022}
+\taxon{reference}
+\meta{doi}{10.32408/compositionality-4-5}
+\meta{bibtex}{\verb>>|
+@article{patterson_Categorical_2022,
+	author = {Patterson, Evan and Lynch, Owen and Fairbanks, James},
+	title = {Categorical Data Structures for Technical Computing},
+	journal = {Compositionality},
+	publisher = {Compositionality},
+	year = {2022},
+	month = {12},
+	number = {5},
+	volume = {4},
+	doi = {10.32408/compositionality-4-5},
+	issn = {2631-4444}
+}
+>>}

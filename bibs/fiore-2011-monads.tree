@@ -1,0 +1,23 @@
+\title{Monads in double categories}
+\author{thomas-m.-fiore}
+\author{nicola-gambino}
+\author{joachim-kock}
+\date{2011}
+\taxon{reference}
+\meta{doi}{10.1016/j.jpaa.2010.08.003}
+\meta{bibtex}{\verb>>|
+@article{fiore_Monads_2011,
+	author = {Fiore, Thomas M. and Gambino, Nicola and Kock, Joachim},
+	title = {Monads in double categories},
+	journal = {Journal of Pure and Applied Algebra},
+	publisher = {Elsevier BV},
+	year = {2011},
+	month = {June},
+	number = {6},
+	volume = {215},
+	pages = {1174--1197},
+	url = {http://dx.doi.org/10.1016/j.jpaa.2010.08.003},
+	doi = {10.1016/j.jpaa.2010.08.003},
+	issn = {0022-4049}
+}
+>>}

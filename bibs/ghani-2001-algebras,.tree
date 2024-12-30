@@ -1,0 +1,24 @@
+\title{Algebras, Coalgebras, Monads and Comonads}
+\author{neil-ghani}
+\author{christoph-lüth}
+\author{federico-marchi}
+\author{john-power}
+\date{2001}
+\taxon{reference}
+\meta{doi}{10.1016/s1571-0661(04)80905-8}
+\meta{bibtex}{\verb>>|
+@article{ghani_Algebras_2001,
+	author = {Ghani, Neil and Lüth, Christoph and de Marchi, Federico and Power, John},
+	title = {Algebras, Coalgebras, Monads and Comonads},
+	journal = {Electronic Notes in Theoretical Computer Science},
+	publisher = {Elsevier BV},
+	year = {2001},
+	month = {May},
+	number = {1},
+	volume = {44},
+	pages = {128--145},
+	url = {http://dx.doi.org/10.1016/S1571-0661(04)80905-8},
+	doi = {10.1016/s1571-0661(04)80905-8},
+	issn = {1571-0661}
+}
+>>}

@@ -1,0 +1,13 @@
+\title{Introduction to higher-order categorical logic}
+\author{joachim-lambek}
+\author{philip-j.-scott}
+\date{1986}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@book{lambek_Introduction_1986,
+	author = {Lambek, Joachim and Scott, Philip J.},
+	title = {Introduction to higher-order categorical logic},
+	publisher = {Cambridge University Press},
+	year = {1986}
+}
+>>}

@@ -1,0 +1,16 @@
+\title{Monoidal Grothendieck Construction}
+\author{joe-moeller}
+\author{christina-vasilakopoulou}
+\date{2020}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{moeller_Monoidal_2020,
+	author = {Moeller, Joe and Vasilakopoulou, Christina},
+	title = {Monoidal Grothendieck Construction},
+	journal = {Theory and Applications of Categories},
+	year = {2020},
+	number = {31},
+	volume = {35},
+	pages = {1159--1207}
+}
+>>}

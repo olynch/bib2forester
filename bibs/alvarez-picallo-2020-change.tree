@@ -1,0 +1,18 @@
+\title{Change actions: from incremental computation to discrete derivatives}
+\author{mario-alvarez-picallo}
+\date{2020}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{alvarez-picallo_Change_2020,
+	author = {Alvarez-Picallo, Mario},
+	title = {Change actions: from incremental computation to discrete derivatives},
+	year = {2020},
+	month = {feb},
+	url = {http://arxiv.org/abs/2002.05256v2},
+	date = {2020-02-12T21:58:24Z},
+	eprint = {2002.05256v2},
+	eprintclass = {cs.LO},
+	eprinttype = {arxiv},
+	urldate = {2024-10-21T15:47:51.634548Z}
+}
+>>}

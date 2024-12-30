@@ -1,0 +1,17 @@
+\title{Theory presentation combinators}
+\author{jacques-carette}
+\author{russell-o’connor}
+\date{2012}
+\taxon{reference}
+\meta{doi}{10.1007/978-3-642-31374-5_14}
+\meta{bibtex}{\verb>>|
+@inproceedings{carette_Theory_2012,
+	author = {Carette, Jacques and O’Connor, Russell},
+	title = {Theory presentation combinators},
+	year = {2012},
+	pages = {202--215},
+	doi = {10.1007/978-3-642-31374-5_14},
+	booktitle = {International Conference on Intelligent Computer Mathematics},
+	organization = {Springer}
+}
+>>}

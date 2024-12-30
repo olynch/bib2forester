@@ -1,0 +1,15 @@
+\title{Introduction to Algebraic and Constructive Quantum Field Theory}
+\author{john-c.-baez}
+\author{irving-e-segal}
+\author{zhengfang-zhou}
+\date{1992}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@book{baez_Introduction_1992,
+	author = {Baez, John C. and Segal, Irving E and Zhou, Zhengfang},
+	title = {Introduction to Algebraic and Constructive Quantum Field Theory},
+	publisher = {Princeton University Press},
+	year = {1992},
+	isbn = {0-691-08546-3}
+}
+>>}

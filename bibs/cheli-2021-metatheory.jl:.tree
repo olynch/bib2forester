@@ -1,0 +1,19 @@
+\title{Metatheory.jl: Fast and Elegant Algebraic Computation in Julia with Extensible Equality Saturation}
+\author{alessandro-cheli}
+\date{2021}
+\taxon{reference}
+\meta{doi}{10.21105/joss.03078}
+\meta{bibtex}{\verb>>|
+@article{cheli_Metatheory_2021,
+	author = {Cheli, Alessandro},
+	title = {Metatheory.jl: Fast and Elegant Algebraic Computation in Julia with Extensible Equality Saturation},
+	journal = {Journal of Open Source Software},
+	publisher = {The Open Journal},
+	year = {2021},
+	month = {March},
+	number = {59},
+	volume = {6},
+	pages = {3078},
+	doi = {10.21105/joss.03078}
+}
+>>}

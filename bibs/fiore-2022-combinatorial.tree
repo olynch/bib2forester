@@ -1,0 +1,17 @@
+\title{A Combinatorial Approach to Higher-Order Structure for Polynomial Functors}
+\author{marcelo-fiore}
+\author{zeinab-galal}
+\author{hugo-paquet}
+\date{2022}
+\taxon{reference}
+\meta{doi}{10.4230/LIPICS.FSCD.2022.31}
+\meta{bibtex}{\verb>>|
+@inproceedings{fiore_Combinatorial_2022,
+	author = {Fiore, Marcelo and Galal, Zeinab and Paquet, Hugo},
+	title = {A Combinatorial Approach to Higher-Order Structure for Polynomial Functors},
+	publisher = {Schloss Dagstuhl – Leibniz-Zentrum für Informatik},
+	year = {2022},
+	doi = {10.4230/LIPICS.FSCD.2022.31},
+	language = {en}
+}
+>>}

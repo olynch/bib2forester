@@ -1,0 +1,17 @@
+\title{Higher Operads, Higher Categories}
+\author{tom-leinster}
+\date{2004}
+\taxon{reference}
+\meta{doi}{10.1017/cbo9780511525896}
+\meta{bibtex}{\verb>>|
+@book{leinster_Higher_2004,
+	author = {Leinster, Tom},
+	title = {Higher Operads, Higher Categories},
+	publisher = {Cambridge University Press},
+	year = {2004},
+	month = {July},
+	url = {http://dx.doi.org/10.1017/CBO9780511525896},
+	doi = {10.1017/cbo9780511525896},
+	isbn = {9780511525896}
+}
+>>}

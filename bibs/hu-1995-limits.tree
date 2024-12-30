@@ -1,0 +1,22 @@
+\title{Limits in free coproduct completions}
+\author{hongde-hu}
+\author{walter-tholen}
+\date{1995}
+\taxon{reference}
+\meta{doi}{10.1016/0022-4049(94)00153-7}
+\meta{bibtex}{\verb>>|
+@article{hu_Limits_1995,
+	author = {Hu, Hongde and Tholen, Walter},
+	title = {Limits in free coproduct completions},
+	journal = {Journal of Pure and Applied Algebra},
+	publisher = {Elsevier BV},
+	year = {1995},
+	month = {December},
+	number = {3},
+	volume = {105},
+	pages = {277--291},
+	url = {http://dx.doi.org/10.1016/0022-4049(94)00153-7},
+	doi = {10.1016/0022-4049(94)00153-7},
+	issn = {0022-4049}
+}
+>>}

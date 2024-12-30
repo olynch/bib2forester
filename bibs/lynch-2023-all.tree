@@ -1,0 +1,16 @@
+\title{All Concepts are $ℂ\mathbfat^#$}
+\author{owen-lynch}
+\author{brandon-t.-shapiro}
+\author{david-i.-spivak}
+\date{2023}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{lynch_All_2023,
+	author = {Lynch, Owen and Shapiro, Brandon T. and Spivak, David I.},
+	title = {All Concepts are $ℂ\mathbfat^#$},
+	year = {2023},
+	archiveprefix = {arXiv},
+	eprint = {2305.02571},
+	primaryclass = {math.CT}
+}
+>>}

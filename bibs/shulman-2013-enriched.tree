@@ -1,0 +1,16 @@
+\title{Enriched Indexed Categories}
+\author{michael-shulman}
+\date{2013}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{shulman_Enriched_2013,
+	author = {Shulman, Michael},
+	title = {Enriched Indexed Categories},
+	journal = {Theory and Application of Categories},
+	year = {2013},
+	number = {21},
+	volume = {28},
+	pages = {616--695},
+	url = {http://www.tac.mta.ca/tac/volumes/28/21/28-21.pdf}
+}
+>>}

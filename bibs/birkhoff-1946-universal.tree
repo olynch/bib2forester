@@ -1,0 +1,14 @@
+\title{Universal algebra}
+\author{garrett-birkhoff}
+\date{1946}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inproceedings{birkhoff_Universal_1946,
+	author = {Birkhoff, Garrett},
+	title = {Universal algebra},
+	publisher = {University of Toronto Press},
+	year = {1946},
+	pages = {310--326},
+	booktitle = {Comptes Rendus du Premier Congrès Canadien de Mathématiques}
+}
+>>}

@@ -1,0 +1,22 @@
+\title{Operadic Modeling of Dynamical Systems: Mathematics and Computation}
+\author{sophie-libkind}
+\author{andrew-baas}
+\author{evan-patterson}
+\author{james-fairbanks}
+\date{2022}
+\taxon{reference}
+\meta{doi}{10.4204/eptcs.372.14}
+\meta{bibtex}{\verb>>|
+@article{libkind_Operadic_2022,
+	author = {Libkind, Sophie and Baas, Andrew and Patterson, Evan and Fairbanks, James},
+	title = {Operadic Modeling of Dynamical Systems: Mathematics and Computation},
+	journal = {Electronic Proceedings in Theoretical Computer Science},
+	publisher = {Open Publishing Association},
+	year = {2022},
+	month = {11},
+	volume = {372},
+	pages = {192--206},
+	doi = {10.4204/eptcs.372.14},
+	issn = {2075-2180}
+}
+>>}

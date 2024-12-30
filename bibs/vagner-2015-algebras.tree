@@ -1,0 +1,18 @@
+\title{Algebras of open dynamical systems on the operad of wiring diagrams }
+\author{dmitry-vagner}
+\author{david-i.-spivak}
+\author{eugene-lerman}
+\date{2015}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{vagner_Algebras_2015,
+	author = {Vagner, Dmitry and Spivak, David I. and Lerman, Eugene},
+	title = {Algebras of open dynamical systems on the operad of wiring diagrams },
+	journal = {Theory and Applications of Categories},
+	year = {2015},
+	number = {51},
+	volume = {30},
+	pages = {1793--1822},
+	issn = {1201-561X}
+}
+>>}

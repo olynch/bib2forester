@@ -1,0 +1,17 @@
+\title{Abstract Errors for Abstract Data Types}
+\author{joseph-a.-goguen}
+\date{1977}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@inproceedings{goguen_Abstract_1977,
+	author = {Goguen, Joseph A.},
+	title = {Abstract Errors for Abstract Data Types},
+	publisher = {North-Holland},
+	year = {1977},
+	pages = {491--526},
+	booktitle = {Formal Description of Programming Concepts: Proceedings of the IFIP
+Working Conference on Formal Description of Programming Concepts,
+St. Andrews, NB, Canada, August 1-5, 1977},
+	editor = {Neuhold, Erich J.}
+}
+>>}

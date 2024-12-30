@@ -1,0 +1,16 @@
+\title{Commutative Monads as a Theory of Distributions}
+\author{anders-kock}
+\date{2012}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@article{kock_Commutative_2012,
+	author = {Kock, Anders},
+	title = {Commutative Monads as a Theory of Distributions},
+	journal = {Theory and Applications of Categories},
+	year = {2012},
+	number = {4},
+	volume = {26},
+	pages = {97--131},
+	url = {http://www.tac.mta.ca/tac/volumes/26/4/26-04.pdf}
+}
+>>}

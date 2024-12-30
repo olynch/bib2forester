@@ -1,0 +1,19 @@
+\title{Shapely types and shape polymorphism}
+\author{c.-barry-jay}
+\author{j.-r.-b.-cockett}
+\date{1994}
+\taxon{reference}
+\meta{doi}{10.1007/3-540-57880-3_20}
+\meta{bibtex}{\verb>>|
+@inbook{jay_Shapely_1994,
+	author = {Jay, C. Barry and Cockett, J. R. B.},
+	title = {Shapely types and shape polymorphism},
+	publisher = {Springer Berlin Heidelberg},
+	year = {1994},
+	pages = {302--316},
+	doi = {10.1007/3-540-57880-3_20},
+	booktitle = {Lecture Notes in Computer Science},
+	isbn = {9783540483762},
+	issn = {1611-3349}
+}
+>>}

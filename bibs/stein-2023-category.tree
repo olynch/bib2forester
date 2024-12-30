@@ -1,0 +1,19 @@
+\title{A Category for Unifying Gaussian Probability and Nondeterminism}
+\author{dario-stein}
+\author{richard-samuelson}
+\date{2023}
+\taxon{reference}
+\meta{doi}{10.4230/LIPICS.CALCO.2023.13}
+\meta{bibtex}{\verb>>|
+@inproceedings{stein_Category_2023,
+	author = {Stein, Dario and Samuelson, Richard},
+	title = {A Category for Unifying Gaussian Probability and Nondeterminism},
+	publisher = {Schloss Dagstuhl – Leibniz-Zentrum für Informatik},
+	year = {2023},
+	url = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CALCO.2023.13},
+	doi = {10.4230/LIPICS.CALCO.2023.13},
+	copyright = {Creative Commons Attribution 4.0 International license},
+	keyword = {systems theory, hypergraph categories, Bayesian inference, category theory, Markov categories, Theory of computation → Probabilistic computation, Theory of computation → Categorical semantics, Mathematics of computing → Probability and statistics},
+	language = {en}
+}
+>>}

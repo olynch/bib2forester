@@ -1,0 +1,15 @@
+\title{Locally Presentable and Accessible Categories}
+\author{j.-adamek}
+\author{j.-rosicky}
+\date{1994}
+\taxon{reference}
+\meta{doi}{10.1017/cbo9780511600579}
+\meta{bibtex}{\verb>>|
+@book{adamek_locally_1994,
+	author = {Adamek, J. and Rosicky, J.},
+	title = {Locally Presentable and Accessible Categories},
+	publisher = {Cambridge University Press},
+	year = {1994},
+	doi = {10.1017/cbo9780511600579}
+}
+>>}

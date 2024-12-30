@@ -1,0 +1,21 @@
+\title{Homotopical patch theory}
+\author{carlo-angiuli}
+\author{edward-morehouse}
+\author{daniel-r.-licata}
+\author{robert-harper}
+\date{2016}
+\taxon{reference}
+\meta{doi}{10.1017/s0956796816000198}
+\meta{bibtex}{\verb>>|
+@article{angiuli_Homotopical_2016,
+	author = {ANGIULI, CARLO and MOREHOUSE, EDWARD and LICATA, DANIEL R. and HARPER, ROBERT},
+	title = {Homotopical patch theory},
+	journal = {Journal of Functional Programming},
+	publisher = {Cambridge University Press (CUP)},
+	year = {2016},
+	volume = {26},
+	url = {http://dx.doi.org/10.1017/S0956796816000198},
+	doi = {10.1017/s0956796816000198},
+	issn = {1469-7653}
+}
+>>}

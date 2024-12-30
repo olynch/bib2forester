@@ -1,0 +1,19 @@
+\title{Functorial data migration}
+\author{david-i.-spivak}
+\date{2012}
+\taxon{reference}
+\meta{doi}{10.1016/j.ic.2012.05.001}
+\meta{bibtex}{\verb>>|
+@article{spivak_Functorial_2012,
+	author = {Spivak, David I.},
+	title = {Functorial data migration},
+	journal = {Information and Computation},
+	publisher = {Elsevier BV},
+	year = {2012},
+	month = {August},
+	volume = {217},
+	pages = {31--51},
+	doi = {10.1016/j.ic.2012.05.001},
+	issn = {0890-5401}
+}
+>>}

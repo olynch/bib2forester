@@ -1,0 +1,19 @@
+\title{ModelingToolkit: A Composable Graph Transformation System For Equation-Based Modeling}
+\author{yingbo-ma}
+\author{shashi-gowda}
+\author{ranjan-anantharaman}
+\author{chris-laughman}
+\author{viral-shah}
+\author{chris-rackauckas}
+\date{2021}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@misc{ma_ModelingToolkit_2021,
+	author = {Ma, Yingbo and Gowda, Shashi and Anantharaman, Ranjan and Laughman, Chris and Shah, Viral and Rackauckas, Chris},
+	title = {ModelingToolkit: A Composable Graph Transformation System For Equation-Based Modeling},
+	year = {2021},
+	archiveprefix = {arXiv},
+	eprint = {2103.05244},
+	primaryclass = {cs.MS}
+}
+>>}

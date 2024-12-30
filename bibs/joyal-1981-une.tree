@@ -1,0 +1,20 @@
+\title{Une théorie combinatoire des séries formelles}
+\author{andré-joyal}
+\date{1981}
+\taxon{reference}
+\meta{doi}{10.1016/0001-8708(81)90052-9}
+\meta{bibtex}{\verb>>|
+@article{joyal_Une_1981,
+	author = {Joyal, André},
+	title = {Une théorie combinatoire des séries formelles},
+	journal = {Advances in Mathematics},
+	publisher = {Elsevier BV},
+	year = {1981},
+	month = {October},
+	number = {1},
+	volume = {42},
+	pages = {1--82},
+	doi = {10.1016/0001-8708(81)90052-9},
+	issn = {0001-8708}
+}
+>>}

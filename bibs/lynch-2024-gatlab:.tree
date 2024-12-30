@@ -1,0 +1,15 @@
+\title{GATlab: a computer algebra system based on generalized algebraic theories}
+\author{owen-lynch}
+\author{kris-brown}
+\author{evan-patterson}
+\author{james-fairbanks}
+\date{2024}
+\taxon{reference}
+\meta{bibtex}{\verb>>|
+@misc{lynch_GATlab_2024,
+	author = {Lynch, Owen and Brown, Kris and Patterson, Evan and Fairbanks, James},
+	title = {GATlab: a computer algebra system based on generalized algebraic theories},
+	year = {2024},
+	url = {https://github.com/AlgebraicJulia/Gatlab.jl}
+}
+>>}
