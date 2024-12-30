@@ -4,6 +4,7 @@
 \author{yaneer-baryam}
 \date{2018}
 \taxon{reference}
+\meta{external}{https://arxiv.org/abs/1812.00450}
 \meta{bibtex}{\verb>>|
 @article{baryam-2018-inherent,
 	author = {Bar-Yam, Taeer and Lynch, Owen and Bar-Yam, Yaneer},

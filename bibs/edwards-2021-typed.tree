@@ -3,6 +3,7 @@
 \author{tomas-petricek}
 \date{2021}
 \taxon{reference}
+\meta{external}{https://arxiv.org/abs/2110.08993v1}
 \meta{bibtex}{\verb>>|
 @article{edwards-2021-typed,
 	author = {Edwards, Jonathan and Petricek, Tomas},

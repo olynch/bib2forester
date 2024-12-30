@@ -4,6 +4,7 @@
 \author{david-spivak}
 \date{2023}
 \taxon{reference}
+\meta{external}{https://arxiv.org/abs/2305.02571}
 \meta{bibtex}{\verb>>|
 @article{lynch-2023-all,
 	author = {Lynch, Owen and Shapiro, Brandon T. and Spivak, David I.},

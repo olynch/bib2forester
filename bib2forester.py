@@ -92,6 +92,8 @@ def tree(e):
         buf.write("\\meta{{doi}}{{{}}}\n".format(e.fields_dict['DOI'].value))
     elif 'url' in e.fields_dict:
         buf.write("\\meta{{external}}{{{}}}\n".format(e.fields_dict['url'].value))
+    elif 'eprint' in e.fields_dict and 'archiveprefix' in e.fields_dict and e.fields_dict['archiveprefix'].value == 'arXiv':
+        buf.write("\\meta{{external}}{{https://arxiv.org/abs/{}}}\n".format(e.fields_dict['eprint'].value))
     name = "{}-{}-{}".format(author_part(e), year_part(e), title_part(e))
     e.key = name
     bibtex = bibtexparser.write_string(
