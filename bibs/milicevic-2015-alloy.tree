@@ -1,8 +1,8 @@
 \title{Alloy*: a general-purpose higher-order relational constraint solver}
-\author{aleksandar-milicevic}
-\author{joseph-p.-near}
-\author{eunsuk-kang}
-\author{daniel-jackson}
+\author{aleksandarmilicevic}
+\author{josephnear}
+\author{eunsukkang}
+\author{danieljackson}
 \date{2015}
 \taxon{reference}
 \meta{bibtex}{\verb>>|

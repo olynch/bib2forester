@@ -1,7 +1,7 @@
 \title{CompilerForCAP -- A Category Theory Aware Compiler, Building and Compiling Towers of Categories}
-\author{mohamed-barakat}
-\author{tom-kuhmichel}
-\author{fabian-zickgraf}
+\author{mohamedbarakat}
+\author{tomkuhmichel}
+\author{fabianzickgraf}
 \date{2022}
 \taxon{reference}
 \meta{bibtex}{\verb>>|

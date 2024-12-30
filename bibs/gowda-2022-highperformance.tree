@@ -1,11 +1,11 @@
 \title{High-Performance Symbolic-Numerics via Multiple Dispatch}
-\author{shashi-gowda}
-\author{yingbo-ma}
-\author{alessandro-cheli}
-\author{maja-gwóźzdź}
-\author{viral-b.-shah}
-\author{alan-edelman}
-\author{christopher-rackauckas}
+\author{shashigowda}
+\author{yingboma}
+\author{alessandrocheli}
+\author{majagwóźzdź}
+\author{viralshah}
+\author{alanedelman}
+\author{christopherrackauckas}
 \date{2022}
 \taxon{reference}
 \meta{doi}{10.1145/3511528.3511535}

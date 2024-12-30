@@ -1,11 +1,11 @@
 \title{Catlab.jl: A framework for applied category theory}
-\author{evan-patterson}
-\author{james-fairbanks}
-\author{andrew-baas}
-\author{kristopher-brown}
-\author{micah-e-halter}
-\author{sophie-libkind}
-\author{owen-lynch}
+\author{evanpatterson}
+\author{jamesfairbanks}
+\author{andrewbaas}
+\author{kristopherbrown}
+\author{micahhalter}
+\author{sophielibkind}
+\author{owenlynch}
 \date{2024}
 \taxon{reference}
 \meta{bibtex}{\verb>>|

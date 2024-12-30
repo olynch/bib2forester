@@ -6,6 +6,7 @@ from bibtexparser.middlewares import MergeNameParts, MergeCoAuthors, SeparateCoA
 import argparse
 import io
 from pathlib import Path
+from unicodedata import category
 
 def get_args():
     parser = argparse.ArgumentParser(
@@ -18,14 +19,17 @@ def get_args():
 
     return parser.parse_args()
 
+def nameify(s):
+    return ''.join([c for c in s.lower() if category(c) in ['Ll', 'Lu']])
+
 def author_tree(author):
-    return "-".join([n.lower() for n in author.first + author.last])
+    return "-".join([nameify(n) for n in [author.first[0] + author.last[0]]])
 
 BORING_WORDS = ['the', 'an', 'a', 'on']
 
 def title_part(e):
     if 'title' in e.fields_dict:
-        words = [w.lower() for w in e.fields_dict['title'].value.split(' ') if not w.lower() in BORING_WORDS]
+        words = [nameify(w) for w in e.fields_dict['title'].value.split(' ') if not nameify(w) in BORING_WORDS]
         return words[0] if len(words) > 0 else "notitle"
     return "notitle"
 
@@ -38,7 +42,7 @@ def author_part(e):
     if 'author' in e.fields_dict:
         authors = e.fields_dict['author'].value
         if len(authors) > 0:
-            return "-".join(authors[0].last).lower()
+            return nameify(authors[0].last[0])
     return "noauthor"
 
 def tree(e):

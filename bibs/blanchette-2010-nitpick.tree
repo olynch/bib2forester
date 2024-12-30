@@ -1,6 +1,6 @@
 \title{Nitpick: A counterexample generator for higher-order logic based on a relational model finder}
-\author{jasmin-christian-blanchette}
-\author{tobias-nipkow}
+\author{jasminblanchette}
+\author{tobiasnipkow}
 \date{2010}
 \taxon{reference}
 \meta{bibtex}{\verb>>|
