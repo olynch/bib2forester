@@ -1,6 +1,3 @@
-#!/usr/bin/env nix-shell
-#! nix-shell -i python3 -p python3 python3Packages.bibtexparser
-
 import bibtexparser
 from bibtexparser.middlewares import MergeNameParts, MergeCoAuthors, SeparateCoAuthors, SplitNameParts
 import argparse
