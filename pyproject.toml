@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bib2forester"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Owen Lynch <root@owenlynch.org>"]
 readme = "README.md"
