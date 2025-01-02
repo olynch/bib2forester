@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "bib2forester"
+version = "0.1.0"
+description = ""
+authors = ["Owen Lynch <root@owenlynch.org>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+bibtexparser = {version = "^2.0.0b8", allow-prereleases = true}
+
+
+[tool.poetry.group.dev.dependencies]
+shiv = "^1.0.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+bib2forester = "bib2forester:main"
