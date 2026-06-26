@@ -47,6 +47,7 @@ def get_args():
     parser.add_argument('-b', '--bib')
     parser.add_argument('-D', '--doi')
     parser.add_argument('-P', '--people-dir')
+    parser.add_argument('-t', '--tag')
     parser.add_argument('destdir')
 
     return parser.parse_args()
@@ -89,7 +90,7 @@ def add_person_tree(people_dir, author):
             f.write("\\title{{{}}}\n".format(author.merge_first_name_first))
             f.write("\\taxon{person}")
 
-def tree(e, people_dir):
+def tree(e, people_dir, tag=None):
     buf = io.StringIO()
     if 'title' in e.fields_dict:
         buf.write("\\title{{{}}}\n".format(e.fields_dict['title'].value))
@@ -101,6 +102,8 @@ def tree(e, people_dir):
     if 'year' in e.fields_dict:
         buf.write("\\date{{{}}}\n".format(e.fields_dict['year'].value))
     buf.write("\\taxon{reference}\n")
+    if tag != None:
+        buf.write("\\tag{{{}}}\n".format(tag))
     if 'doi' in e.fields_dict:
         buf.write("\\meta{{doi}}{{{}}}\n".format(e.fields_dict['doi'].value))
     elif 'DOI' in e.fields_dict:
@@ -134,7 +137,7 @@ def main():
         append_middleware=[SeparateCoAuthors(), SplitNameParts()]
     )
     for e in bibtex_database.entries:
-        (content, name) = tree(e, args.people_dir)
+        (content, name) = tree(e, args.people_dir, args.tag)
         fname = name + ".tree"
         dest = Path(args.destdir) / fname
         if dest.exists():
